@@ -1,0 +1,564 @@
+year,route,category,delay_minutes,incidents,zero_minute_incidents
+2014,,Cleaning/Sanitation,0.0,1,1
+2014,,Emergency/Medical,0.0,19,19
+2014,,Mechanical,4.0,1,0
+2014,,Operations/Crew,0.0,14,14
+2014,,Security,0.0,7,7
+2014,,Track/Overhead,7.0,9,7
+2014,,Unclassified,0.0,32,32
+2014,31 GREENWOOD,Unclassified,0.0,1,1
+2014,45 KIPLING,Emergency/Medical,0.0,1,1
+2014,60,Emergency/Medical,0.0,1,1
+2014,9 BELLAMY,Emergency/Medical,0.0,1,1
+2014,BLOOR DANFORTH,Unclassified,0.0,1,1
+2014,Line 1 (Yonge-University),Cleaning/Sanitation,265.0,74,14
+2014,Line 1 (Yonge-University),Collision,500.0,11,0
+2014,Line 1 (Yonge-University),Emergency/Medical,4251.0,1503,972
+2014,Line 1 (Yonge-University),Mechanical,2086.0,556,127
+2014,Line 1 (Yonge-University),Operations/Crew,2799.0,2430,1866
+2014,Line 1 (Yonge-University),Security,2611.0,655,280
+2014,Line 1 (Yonge-University),Track/Overhead,3518.0,2367,1819
+2014,Line 1 (Yonge-University),Unclassified,1896.0,2409,1964
+2014,Line 2 (Bloor-Danforth),Cleaning/Sanitation,361.0,86,10
+2014,Line 2 (Bloor-Danforth),Collision,1432.0,21,1
+2014,Line 2 (Bloor-Danforth),Emergency/Medical,3850.0,1473,1034
+2014,Line 2 (Bloor-Danforth),Mechanical,2606.0,612,94
+2014,Line 2 (Bloor-Danforth),Operations/Crew,1858.0,2343,1916
+2014,Line 2 (Bloor-Danforth),Security,2477.0,767,356
+2014,Line 2 (Bloor-Danforth),Track/Overhead,2642.0,2091,1596
+2014,Line 2 (Bloor-Danforth),Unclassified,1054.0,1470,1247
+2014,Line 3 (Scarborough),Emergency/Medical,286.0,65,43
+2014,Line 3 (Scarborough),Mechanical,1408.0,234,35
+2014,Line 3 (Scarborough),Operations/Crew,1237.0,285,113
+2014,Line 3 (Scarborough),Security,265.0,36,15
+2014,Line 3 (Scarborough),Track/Overhead,104.0,23,8
+2014,Line 3 (Scarborough),Unclassified,551.0,159,93
+2014,Line 4 (Sheppard),Cleaning/Sanitation,64.0,15,3
+2014,Line 4 (Sheppard),Emergency/Medical,346.0,85,61
+2014,Line 4 (Sheppard),Mechanical,231.0,46,6
+2014,Line 4 (Sheppard),Operations/Crew,256.0,156,108
+2014,Line 4 (Sheppard),Security,123.0,34,19
+2014,Line 4 (Sheppard),Track/Overhead,446.0,234,183
+2014,Line 4 (Sheppard),Unclassified,91.0,93,76
+2015,,Cleaning/Sanitation,0.0,1,1
+2015,,Emergency/Medical,0.0,29,29
+2015,,Operations/Crew,0.0,8,8
+2015,,Security,0.0,9,9
+2015,,Track/Overhead,0.0,11,11
+2015,,Unclassified,3.0,54,53
+2015,104 FAYWOOD,Emergency/Medical,0.0,1,1
+2015,126 CHRISTIE,Emergency/Medical,0.0,1,1
+2015,25 DON MILLS,Emergency/Medical,3.0,1,0
+2015,36 FINCH WEST,Emergency/Medical,0.0,1,1
+2015,37 ISLINGTON,Emergency/Medical,0.0,1,1
+2015,500,Emergency/Medical,0.0,1,1
+2015,504,Emergency/Medical,0.0,1,1
+2015,555,Track/Overhead,0.0,1,1
+2015,60 STEELES WEST,Emergency/Medical,0.0,1,1
+2015,95 YORK MILLS,Emergency/Medical,0.0,1,1
+2015,Line 1 (Yonge-University),Cleaning/Sanitation,132.0,32,3
+2015,Line 1 (Yonge-University),Collision,353.0,6,0
+2015,Line 1 (Yonge-University),Emergency/Medical,3273.0,1586,1150
+2015,Line 1 (Yonge-University),Mechanical,1520.0,421,102
+2015,Line 1 (Yonge-University),Operations/Crew,1714.0,1901,1538
+2015,Line 1 (Yonge-University),Security,2491.0,678,327
+2015,Line 1 (Yonge-University),Track/Overhead,1896.0,2014,1712
+2015,Line 1 (Yonge-University),Unclassified,1478.0,2238,1939
+2015,Line 2 (Bloor-Danforth),Cleaning/Sanitation,197.0,61,13
+2015,Line 2 (Bloor-Danforth),Collision,770.0,11,0
+2015,Line 2 (Bloor-Danforth),Emergency/Medical,3768.0,1531,1122
+2015,Line 2 (Bloor-Danforth),Mechanical,2400.0,863,366
+2015,Line 2 (Bloor-Danforth),Operations/Crew,1447.0,2664,2345
+2015,Line 2 (Bloor-Danforth),Security,2899.0,792,390
+2015,Line 2 (Bloor-Danforth),Track/Overhead,2337.0,3762,3347
+2015,Line 2 (Bloor-Danforth),Unclassified,961.0,1293,1090
+2015,Line 3 (Scarborough),Emergency/Medical,223.0,67,46
+2015,Line 3 (Scarborough),Mechanical,1103.0,213,40
+2015,Line 3 (Scarborough),Operations/Crew,670.0,191,77
+2015,Line 3 (Scarborough),Security,205.0,34,13
+2015,Line 3 (Scarborough),Track/Overhead,443.0,36,9
+2015,Line 3 (Scarborough),Unclassified,668.0,283,221
+2015,Line 4 (Sheppard),Cleaning/Sanitation,32.0,6,0
+2015,Line 4 (Sheppard),Emergency/Medical,379.0,69,47
+2015,Line 4 (Sheppard),Mechanical,254.0,52,5
+2015,Line 4 (Sheppard),Operations/Crew,236.0,160,111
+2015,Line 4 (Sheppard),Security,202.0,33,15
+2015,Line 4 (Sheppard),Track/Overhead,490.0,261,204
+2015,Line 4 (Sheppard),Unclassified,215.0,88,62
+2015,SHEPPARD,Unclassified,0.0,1,1
+2016,,Cleaning/Sanitation,0.0,1,1
+2016,,Emergency/Medical,0.0,22,22
+2016,,Operations/Crew,0.0,8,8
+2016,,Security,0.0,3,3
+2016,,Track/Overhead,0.0,12,12
+2016,,Unclassified,0.0,37,37
+2016,116 MORNINGSIDE,Security,0.0,1,1
+2016,29 DUFFERIN,Unclassified,0.0,1,1
+2016,341 KEELE,Emergency/Medical,0.0,1,1
+2016,504 KING,Emergency/Medical,0.0,1,1
+2016,510 SPADINA,Emergency/Medical,0.0,1,1
+2016,66,Security,12.0,1,0
+2016,73 ROYAL YORK,Emergency/Medical,0.0,1,1
+2016,BLOOR DANFORTH LINE,Unclassified,0.0,1,1
+2016,Line 1 (Yonge-University),Cleaning/Sanitation,307.0,79,0
+2016,Line 1 (Yonge-University),Collision,932.0,15,0
+2016,Line 1 (Yonge-University),Emergency/Medical,3799.0,1735,1245
+2016,Line 1 (Yonge-University),Mechanical,1370.0,326,47
+2016,Line 1 (Yonge-University),Operations/Crew,1975.0,1946,1461
+2016,Line 1 (Yonge-University),Security,3101.0,855,394
+2016,Line 1 (Yonge-University),Track/Overhead,2137.0,1897,1606
+2016,Line 1 (Yonge-University),Unclassified,1472.0,2083,1754
+2016,Line 2 (Bloor-Danforth),Cleaning/Sanitation,231.0,73,13
+2016,Line 2 (Bloor-Danforth),Collision,582.0,9,0
+2016,Line 2 (Bloor-Danforth),Emergency/Medical,5045.0,1824,1275
+2016,Line 2 (Bloor-Danforth),Mechanical,2723.0,745,203
+2016,Line 2 (Bloor-Danforth),Operations/Crew,1665.0,2075,1713
+2016,Line 2 (Bloor-Danforth),Security,3149.0,829,409
+2016,Line 2 (Bloor-Danforth),Track/Overhead,1975.0,3897,3560
+2016,Line 2 (Bloor-Danforth),Unclassified,1222.0,1177,935
+2016,Line 3 (Scarborough),Emergency/Medical,155.0,51,36
+2016,Line 3 (Scarborough),Mechanical,1405.0,212,40
+2016,Line 3 (Scarborough),Operations/Crew,631.0,177,71
+2016,Line 3 (Scarborough),Security,132.0,24,9
+2016,Line 3 (Scarborough),Track/Overhead,343.0,28,6
+2016,Line 3 (Scarborough),Unclassified,602.0,127,67
+2016,Line 4 (Sheppard),Cleaning/Sanitation,42.0,10,1
+2016,Line 4 (Sheppard),Collision,87.0,1,0
+2016,Line 4 (Sheppard),Emergency/Medical,193.0,77,59
+2016,Line 4 (Sheppard),Mechanical,267.0,59,8
+2016,Line 4 (Sheppard),Operations/Crew,354.0,224,156
+2016,Line 4 (Sheppard),Security,221.0,45,23
+2016,Line 4 (Sheppard),Track/Overhead,1110.0,374,217
+2016,Line 4 (Sheppard),Unclassified,136.0,95,66
+2017,,Emergency/Medical,0.0,15,15
+2017,,Operations/Crew,0.0,5,5
+2017,,Security,0.0,1,1
+2017,,Track/Overhead,0.0,4,4
+2017,,Unclassified,0.0,15,15
+2017,11 BAYVIEW,Emergency/Medical,0.0,2,2
+2017,129 MCCOWAN NORTH,Emergency/Medical,0.0,1,1
+2017,32 EGLINTON WEST,Emergency/Medical,0.0,1,1
+2017,510 SPADINA,Emergency/Medical,0.0,1,1
+2017,63 OSSINGTON,Emergency/Medical,0.0,1,1
+2017,85 SHEPPARD EAST,Emergency/Medical,0.0,1,1
+2017,B/D,Emergency/Medical,0.0,10,10
+2017,B/D,Mechanical,13.0,4,0
+2017,B/D,Operations/Crew,4.0,12,11
+2017,B/D,Security,0.0,7,7
+2017,B/D,Track/Overhead,12.0,16,14
+2017,B/D,Unclassified,4.0,12,11
+2017,Line 1 (Yonge-University),Cleaning/Sanitation,242.0,60,4
+2017,Line 1 (Yonge-University),Collision,754.0,13,0
+2017,Line 1 (Yonge-University),Emergency/Medical,3033.0,1701,1251
+2017,Line 1 (Yonge-University),Mechanical,1690.0,367,47
+2017,Line 1 (Yonge-University),Operations/Crew,2188.0,1702,1247
+2017,Line 1 (Yonge-University),Security,3369.0,898,427
+2017,Line 1 (Yonge-University),Track/Overhead,1633.0,1904,1646
+2017,Line 1 (Yonge-University),Unclassified,1442.0,1897,1552
+2017,Line 2 (Bloor-Danforth),Cleaning/Sanitation,221.0,67,9
+2017,Line 2 (Bloor-Danforth),Collision,1652.0,18,1
+2017,Line 2 (Bloor-Danforth),Emergency/Medical,3657.0,1740,1302
+2017,Line 2 (Bloor-Danforth),Mechanical,2507.0,684,170
+2017,Line 2 (Bloor-Danforth),Operations/Crew,1632.0,1474,1146
+2017,Line 2 (Bloor-Danforth),Security,3425.0,886,447
+2017,Line 2 (Bloor-Danforth),Track/Overhead,1954.0,2889,2533
+2017,Line 2 (Bloor-Danforth),Unclassified,1259.0,1060,794
+2017,Line 3 (Scarborough),Cleaning/Sanitation,26.0,6,1
+2017,Line 3 (Scarborough),Emergency/Medical,116.0,78,67
+2017,Line 3 (Scarborough),Mechanical,1461.0,215,45
+2017,Line 3 (Scarborough),Operations/Crew,940.0,273,124
+2017,Line 3 (Scarborough),Security,171.0,36,21
+2017,Line 3 (Scarborough),Track/Overhead,634.0,56,12
+2017,Line 3 (Scarborough),Unclassified,444.0,107,69
+2017,Line 4 (Sheppard),Cleaning/Sanitation,7.0,3,1
+2017,Line 4 (Sheppard),Collision,20.0,1,0
+2017,Line 4 (Sheppard),Emergency/Medical,227.0,95,80
+2017,Line 4 (Sheppard),Mechanical,208.0,42,6
+2017,Line 4 (Sheppard),Operations/Crew,210.0,179,134
+2017,Line 4 (Sheppard),Security,177.0,38,18
+2017,Line 4 (Sheppard),Track/Overhead,717.0,199,119
+2017,Line 4 (Sheppard),Unclassified,176.0,88,59
+2018,,Emergency/Medical,6.0,49,48
+2018,,Mechanical,0.0,1,1
+2018,,Operations/Crew,0.0,8,8
+2018,,Security,0.0,8,8
+2018,,Track/Overhead,0.0,10,10
+2018,,Unclassified,0.0,25,25
+2018,16 MCCOWAN,Emergency/Medical,0.0,2,2
+2018,704 RAD BUS,Emergency/Medical,0.0,1,1
+2018,999,Track/Overhead,0.0,2,2
+2018,999,Unclassified,0.0,1,1
+2018,BLOOR DANFORTH LINES,Unclassified,0.0,1,1
+2018,Line 1 (Yonge-University),Cleaning/Sanitation,284.0,64,1
+2018,Line 1 (Yonge-University),Collision,1200.0,17,4
+2018,Line 1 (Yonge-University),Emergency/Medical,4350.0,2262,1689
+2018,Line 1 (Yonge-University),Mechanical,2080.0,486,109
+2018,Line 1 (Yonge-University),Operations/Crew,6313.0,2285,1166
+2018,Line 1 (Yonge-University),Security,4888.0,1091,492
+2018,Line 1 (Yonge-University),Track/Overhead,2867.0,1842,1424
+2018,Line 1 (Yonge-University),Unclassified,2086.0,2229,1764
+2018,Line 2 (Bloor-Danforth),Cleaning/Sanitation,258.0,73,7
+2018,Line 2 (Bloor-Danforth),Collision,1459.0,25,0
+2018,Line 2 (Bloor-Danforth),Emergency/Medical,3283.0,1817,1407
+2018,Line 2 (Bloor-Danforth),Mechanical,2509.0,630,114
+2018,Line 2 (Bloor-Danforth),Operations/Crew,3106.0,1961,1283
+2018,Line 2 (Bloor-Danforth),Security,3854.0,945,435
+2018,Line 2 (Bloor-Danforth),Track/Overhead,2358.0,2586,2199
+2018,Line 2 (Bloor-Danforth),Unclassified,1441.0,1082,755
+2018,Line 3 (Scarborough),Cleaning/Sanitation,19.0,4,1
+2018,Line 3 (Scarborough),Emergency/Medical,264.0,84,68
+2018,Line 3 (Scarborough),Mechanical,1608.0,265,44
+2018,Line 3 (Scarborough),Operations/Crew,694.0,170,57
+2018,Line 3 (Scarborough),Security,202.0,37,14
+2018,Line 3 (Scarborough),Track/Overhead,608.0,27,5
+2018,Line 3 (Scarborough),Unclassified,304.0,129,86
+2018,Line 4 (Sheppard),Emergency/Medical,174.0,95,72
+2018,Line 4 (Sheppard),Mechanical,110.0,26,7
+2018,Line 4 (Sheppard),Operations/Crew,218.0,120,94
+2018,Line 4 (Sheppard),Security,241.0,31,11
+2018,Line 4 (Sheppard),Track/Overhead,481.0,172,97
+2018,Line 4 (Sheppard),Unclassified,99.0,68,53
+2018,YONGE UNIVERSITY SERVI,Unclassified,0.0,1,1
+2018,YU-BD,Unclassified,0.0,3,3
+2019,,Cleaning/Sanitation,0.0,1,1
+2019,,Emergency/Medical,0.0,19,19
+2019,,Operations/Crew,0.0,4,4
+2019,,Security,0.0,7,7
+2019,,Track/Overhead,0.0,1,1
+2019,,Unclassified,0.0,18,18
+2019,100 FLEMINGDON PARK,Emergency/Medical,0.0,1,1
+2019,134 PROGRESS,Emergency/Medical,0.0,1,1
+2019,22 COXWELL,Security,0.0,1,1
+2019,46 MARTIN GROVE,Emergency/Medical,0.0,1,1
+2019,985 SHEPPARD EAST EXPR,Emergency/Medical,0.0,1,1
+2019,999,Security,0.0,1,1
+2019,999,Track/Overhead,0.0,1,1
+2019,B/D,Unclassified,0.0,1,1
+2019,BLOOR-DANFORTH,Emergency/Medical,0.0,1,1
+2019,Line 1 (Yonge-University),Cleaning/Sanitation,166.0,51,9
+2019,Line 1 (Yonge-University),Collision,1021.0,10,1
+2019,Line 1 (Yonge-University),Emergency/Medical,4764.0,2359,1795
+2019,Line 1 (Yonge-University),Mechanical,2042.0,442,40
+2019,Line 1 (Yonge-University),Operations/Crew,5881.0,2271,1044
+2019,Line 1 (Yonge-University),Security,4253.0,1191,595
+2019,Line 1 (Yonge-University),Track/Overhead,2855.0,1509,1132
+2019,Line 1 (Yonge-University),Unclassified,1761.0,1826,1455
+2019,Line 2 (Bloor-Danforth),Cleaning/Sanitation,314.0,86,10
+2019,Line 2 (Bloor-Danforth),Collision,870.0,14,0
+2019,Line 2 (Bloor-Danforth),Emergency/Medical,3843.0,1868,1455
+2019,Line 2 (Bloor-Danforth),Mechanical,2230.0,573,130
+2019,Line 2 (Bloor-Danforth),Operations/Crew,2503.0,1551,1025
+2019,Line 2 (Bloor-Danforth),Security,3814.0,1004,509
+2019,Line 2 (Bloor-Danforth),Track/Overhead,2454.0,2316,1935
+2019,Line 2 (Bloor-Danforth),Unclassified,1312.0,790,519
+2019,Line 3 (Scarborough),Cleaning/Sanitation,6.0,1,0
+2019,Line 3 (Scarborough),Emergency/Medical,430.0,84,65
+2019,Line 3 (Scarborough),Mechanical,977.0,170,17
+2019,Line 3 (Scarborough),Operations/Crew,1521.0,226,109
+2019,Line 3 (Scarborough),Security,289.0,46,25
+2019,Line 3 (Scarborough),Track/Overhead,817.0,41,7
+2019,Line 3 (Scarborough),Unclassified,350.0,131,81
+2019,Line 4 (Sheppard),Cleaning/Sanitation,10.0,3,1
+2019,Line 4 (Sheppard),Emergency/Medical,156.0,106,87
+2019,Line 4 (Sheppard),Mechanical,48.0,11,1
+2019,Line 4 (Sheppard),Operations/Crew,212.0,202,158
+2019,Line 4 (Sheppard),Security,248.0,48,26
+2019,Line 4 (Sheppard),Track/Overhead,502.0,151,84
+2019,Line 4 (Sheppard),Unclassified,137.0,79,51
+2019,RT,Operations/Crew,0.0,1,1
+2019,YU\BD,Unclassified,0.0,1,1
+2020,,Cleaning/Sanitation,0.0,1,1
+2020,,Emergency/Medical,0.0,21,21
+2020,,Operations/Crew,0.0,1,1
+2020,,Security,0.0,6,6
+2020,,Track/Overhead,0.0,7,7
+2020,,Unclassified,0.0,11,11
+2020,102 MARKHAM ROAD,Unclassified,0.0,1,1
+2020,29 DUFFERIN,Emergency/Medical,0.0,1,1
+2020,35 JANE,Emergency/Medical,0.0,1,1
+2020,40 JUNCTION-DUNDAS WES,Emergency/Medical,0.0,1,1
+2020,71 RUNNYMEDE,Emergency/Medical,0.0,1,1
+2020,95 YORK MILLS,Emergency/Medical,0.0,1,1
+2020,999,Emergency/Medical,0.0,1,1
+2020,999,Unclassified,0.0,1,1
+2020,BLOOR - DANFORTH,Unclassified,0.0,1,1
+2020,Line 1 (Yonge-University),Cleaning/Sanitation,193.0,58,9
+2020,Line 1 (Yonge-University),Collision,1441.0,18,0
+2020,Line 1 (Yonge-University),Emergency/Medical,2991.0,1489,1178
+2020,Line 1 (Yonge-University),Mechanical,1535.0,279,19
+2020,Line 1 (Yonge-University),Operations/Crew,8003.0,2448,570
+2020,Line 1 (Yonge-University),Security,5103.0,1426,727
+2020,Line 1 (Yonge-University),Track/Overhead,2995.0,1044,746
+2020,Line 1 (Yonge-University),Unclassified,1355.0,1223,981
+2020,Line 2 (Bloor-Danforth),Cleaning/Sanitation,398.0,114,16
+2020,Line 2 (Bloor-Danforth),Collision,2287.0,23,1
+2020,Line 2 (Bloor-Danforth),Emergency/Medical,2034.0,1366,1119
+2020,Line 2 (Bloor-Danforth),Mechanical,1681.0,288,27
+2020,Line 2 (Bloor-Danforth),Operations/Crew,3287.0,1122,305
+2020,Line 2 (Bloor-Danforth),Security,4223.0,1227,628
+2020,Line 2 (Bloor-Danforth),Track/Overhead,2016.0,829,545
+2020,Line 2 (Bloor-Danforth),Unclassified,1038.0,505,285
+2020,Line 3 (Scarborough),Cleaning/Sanitation,10.0,2,0
+2020,Line 3 (Scarborough),Emergency/Medical,92.0,59,53
+2020,Line 3 (Scarborough),Mechanical,1157.0,167,8
+2020,Line 3 (Scarborough),Operations/Crew,799.0,240,105
+2020,Line 3 (Scarborough),Security,184.0,46,27
+2020,Line 3 (Scarborough),Track/Overhead,1194.0,29,1
+2020,Line 3 (Scarborough),Unclassified,334.0,101,70
+2020,Line 4 (Sheppard),Cleaning/Sanitation,19.0,3,0
+2020,Line 4 (Sheppard),Collision,128.0,1,0
+2020,Line 4 (Sheppard),Emergency/Medical,91.0,82,68
+2020,Line 4 (Sheppard),Mechanical,137.0,22,2
+2020,Line 4 (Sheppard),Operations/Crew,309.0,211,150
+2020,Line 4 (Sheppard),Security,133.0,36,16
+2020,Line 4 (Sheppard),Track/Overhead,385.0,214,147
+2020,Line 4 (Sheppard),Unclassified,124.0,50,39
+2020,SHEP,Unclassified,0.0,1,1
+2020,YU-BD,Unclassified,0.0,1,1
+2021,,Cleaning/Sanitation,3.0,1,0
+2021,,Emergency/Medical,0.0,19,19
+2021,,Operations/Crew,3.0,5,4
+2021,,Security,4.0,8,7
+2021,,Track/Overhead,0.0,3,3
+2021,,Unclassified,0.0,16,16
+2021,35 JANE,Emergency/Medical,0.0,1,1
+2021,36 FINCH WEST,Emergency/Medical,0.0,1,1
+2021,41 KEELE,Emergency/Medical,0.0,1,1
+2021,52,Unclassified,0.0,1,1
+2021,999,Emergency/Medical,0.0,1,1
+2021,Line 1 (Yonge-University),Cleaning/Sanitation,740.0,183,4
+2021,Line 1 (Yonge-University),Collision,1152.0,15,1
+2021,Line 1 (Yonge-University),Emergency/Medical,2976.0,1882,1571
+2021,Line 1 (Yonge-University),Mechanical,1294.0,291,28
+2021,Line 1 (Yonge-University),Operations/Crew,8440.0,2166,438
+2021,Line 1 (Yonge-University),Security,7725.0,1929,990
+2021,Line 1 (Yonge-University),Track/Overhead,3814.0,1396,830
+2021,Line 1 (Yonge-University),Unclassified,1780.0,1400,1083
+2021,Line 2 (Bloor-Danforth),Cleaning/Sanitation,427.0,106,14
+2021,Line 2 (Bloor-Danforth),Collision,1740.0,18,1
+2021,Line 2 (Bloor-Danforth),Emergency/Medical,2561.0,1527,1296
+2021,Line 2 (Bloor-Danforth),Mechanical,1803.0,356,33
+2021,Line 2 (Bloor-Danforth),Operations/Crew,2266.0,740,241
+2021,Line 2 (Bloor-Danforth),Security,7123.0,1632,824
+2021,Line 2 (Bloor-Danforth),Track/Overhead,2096.0,688,399
+2021,Line 2 (Bloor-Danforth),Unclassified,1362.0,666,414
+2021,Line 3 (Scarborough),Cleaning/Sanitation,13.0,2,0
+2021,Line 3 (Scarborough),Collision,86.0,1,0
+2021,Line 3 (Scarborough),Emergency/Medical,94.0,65,53
+2021,Line 3 (Scarborough),Mechanical,989.0,137,13
+2021,Line 3 (Scarborough),Operations/Crew,639.0,180,105
+2021,Line 3 (Scarborough),Security,403.0,55,33
+2021,Line 3 (Scarborough),Track/Overhead,895.0,28,2
+2021,Line 3 (Scarborough),Unclassified,358.0,188,147
+2021,Line 4 (Sheppard),Cleaning/Sanitation,38.0,10,1
+2021,Line 4 (Sheppard),Collision,111.0,1,0
+2021,Line 4 (Sheppard),Emergency/Medical,87.0,78,67
+2021,Line 4 (Sheppard),Mechanical,93.0,24,5
+2021,Line 4 (Sheppard),Operations/Crew,294.0,157,106
+2021,Line 4 (Sheppard),Security,360.0,82,40
+2021,Line 4 (Sheppard),Track/Overhead,657.0,245,148
+2021,Line 4 (Sheppard),Unclassified,75.0,60,48
+2021,SHEP,Emergency/Medical,0.0,1,1
+2021,YONGE/UNIVERSITY/BLOOR,Unclassified,0.0,1,1
+2022,,Emergency/Medical,0.0,17,17
+2022,,Operations/Crew,5.0,4,3
+2022,,Security,0.0,6,6
+2022,,Track/Overhead,0.0,2,2
+2022,,Unclassified,4.0,10,9
+2022,506 CARLTON,Security,0.0,1,1
+2022,57 MIDLAND,Emergency/Medical,0.0,1,1
+2022,69 WARDEN SOUTH,Emergency/Medical,0.0,1,1
+2022,96 WILSON,Security,0.0,1,1
+2022,B/D,Emergency/Medical,0.0,1,1
+2022,LINE 2 SHUTTLE,Emergency/Medical,0.0,1,1
+2022,Line 1 (Yonge-University),Cleaning/Sanitation,864.0,180,4
+2022,Line 1 (Yonge-University),Collision,1560.0,20,1
+2022,Line 1 (Yonge-University),Emergency/Medical,3799.0,2416,2028
+2022,Line 1 (Yonge-University),Mechanical,1580.0,274,26
+2022,Line 1 (Yonge-University),Operations/Crew,9386.0,2291,581
+2022,Line 1 (Yonge-University),Security,11064.0,2335,1209
+2022,Line 1 (Yonge-University),Track/Overhead,5838.0,1846,914
+2022,Line 1 (Yonge-University),Unclassified,3168.0,1643,1060
+2022,Line 2 (Bloor-Danforth),Cleaning/Sanitation,564.0,120,5
+2022,Line 2 (Bloor-Danforth),Collision,1621.0,20,1
+2022,Line 2 (Bloor-Danforth),Emergency/Medical,3115.0,1919,1616
+2022,Line 2 (Bloor-Danforth),Mechanical,1757.0,307,23
+2022,Line 2 (Bloor-Danforth),Operations/Crew,2780.0,892,329
+2022,Line 2 (Bloor-Danforth),Security,8823.0,1884,1021
+2022,Line 2 (Bloor-Danforth),Track/Overhead,3422.0,853,448
+2022,Line 2 (Bloor-Danforth),Unclassified,1990.0,797,483
+2022,Line 3 (Scarborough),Cleaning/Sanitation,32.0,5,0
+2022,Line 3 (Scarborough),Emergency/Medical,461.0,87,78
+2022,Line 3 (Scarborough),Mechanical,1264.0,204,27
+2022,Line 3 (Scarborough),Operations/Crew,1156.0,236,68
+2022,Line 3 (Scarborough),Security,601.0,77,35
+2022,Line 3 (Scarborough),Track/Overhead,1546.0,66,7
+2022,Line 3 (Scarborough),Unclassified,1018.0,518,449
+2022,Line 4 (Sheppard),Cleaning/Sanitation,73.0,16,2
+2022,Line 4 (Sheppard),Collision,102.0,1,0
+2022,Line 4 (Sheppard),Emergency/Medical,156.0,92,77
+2022,Line 4 (Sheppard),Mechanical,177.0,33,1
+2022,Line 4 (Sheppard),Operations/Crew,421.0,181,104
+2022,Line 4 (Sheppard),Security,789.0,123,59
+2022,Line 4 (Sheppard),Track/Overhead,1110.0,325,177
+2022,Line 4 (Sheppard),Unclassified,227.0,81,42
+2022,Y/BD,Unclassified,0.0,1,1
+2023,,Cleaning/Sanitation,0.0,1,1
+2023,,Emergency/Medical,0.0,17,17
+2023,,Operations/Crew,0.0,1,1
+2023,,Security,0.0,13,13
+2023,,Track/Overhead,0.0,5,5
+2023,,Unclassified,0.0,11,11
+2023,77 SWANSEA,Emergency/Medical,20.0,1,0
+2023,999,Track/Overhead,0.0,1,1
+2023,BLOOR DANFORTH & YONGE,Unclassified,0.0,1,1
+2023,Line 1 (Yonge-University),Cleaning/Sanitation,920.0,231,39
+2023,Line 1 (Yonge-University),Collision,1517.0,19,0
+2023,Line 1 (Yonge-University),Emergency/Medical,4523.0,3142,2681
+2023,Line 1 (Yonge-University),Mechanical,1504.0,268,21
+2023,Line 1 (Yonge-University),Operations/Crew,4214.0,1090,381
+2023,Line 1 (Yonge-University),Security,12637.0,4135,2848
+2023,Line 1 (Yonge-University),Track/Overhead,5392.0,1246,397
+2023,Line 1 (Yonge-University),Unclassified,4931.0,1799,952
+2023,Line 2 (Bloor-Danforth),Cleaning/Sanitation,819.0,213,35
+2023,Line 2 (Bloor-Danforth),Collision,1755.0,27,2
+2023,Line 2 (Bloor-Danforth),Emergency/Medical,3324.0,2802,2456
+2023,Line 2 (Bloor-Danforth),Mechanical,2067.0,379,41
+2023,Line 2 (Bloor-Danforth),Operations/Crew,1841.0,915,528
+2023,Line 2 (Bloor-Danforth),Security,9745.0,3345,2320
+2023,Line 2 (Bloor-Danforth),Track/Overhead,2818.0,1048,701
+2023,Line 2 (Bloor-Danforth),Unclassified,2098.0,775,418
+2023,Line 3 (Scarborough),Cleaning/Sanitation,10.0,2,0
+2023,Line 3 (Scarborough),Emergency/Medical,133.0,60,48
+2023,Line 3 (Scarborough),Mechanical,1745.0,162,6
+2023,Line 3 (Scarborough),Operations/Crew,732.0,121,36
+2023,Line 3 (Scarborough),Security,348.0,46,22
+2023,Line 3 (Scarborough),Track/Overhead,235.0,20,2
+2023,Line 3 (Scarborough),Unclassified,484.0,318,279
+2023,Line 4 (Sheppard),Cleaning/Sanitation,86.0,23,9
+2023,Line 4 (Sheppard),Emergency/Medical,234.0,149,132
+2023,Line 4 (Sheppard),Mechanical,97.0,17,2
+2023,Line 4 (Sheppard),Operations/Crew,359.0,114,62
+2023,Line 4 (Sheppard),Security,1072.0,169,93
+2023,Line 4 (Sheppard),Track/Overhead,832.0,191,109
+2023,Line 4 (Sheppard),Unclassified,175.0,68,43
+2024,,Cleaning/Sanitation,0.0,4,4
+2024,,Emergency/Medical,0.0,11,11
+2024,,Operations/Crew,0.0,1,1
+2024,,Security,0.0,8,8
+2024,,Track/Overhead,0.0,3,3
+2024,,Unclassified,0.0,17,17
+2024,109 RANEE,Emergency/Medical,25.0,1,0
+2024,20 CLIFFSIDE,Emergency/Medical,32.0,1,0
+2024,BLOOR DANFORTH,Unclassified,0.0,1,1
+2024,LINE 1,Unclassified,0.0,1,1
+2024,Line 1 (Yonge-University),Cleaning/Sanitation,1407.0,386,105
+2024,Line 1 (Yonge-University),Collision,930.0,14,0
+2024,Line 1 (Yonge-University),Emergency/Medical,6246.0,3730,3089
+2024,Line 1 (Yonge-University),Mechanical,2119.0,364,30
+2024,Line 1 (Yonge-University),Operations/Crew,4283.0,1519,787
+2024,Line 1 (Yonge-University),Security,13537.0,4380,2897
+2024,Line 1 (Yonge-University),Track/Overhead,8160.0,1965,756
+2024,Line 1 (Yonge-University),Unclassified,5205.0,2168,1179
+2024,Line 2 (Bloor-Danforth),Cleaning/Sanitation,1335.0,420,153
+2024,Line 2 (Bloor-Danforth),Collision,1509.0,18,0
+2024,Line 2 (Bloor-Danforth),Emergency/Medical,4423.0,2957,2537
+2024,Line 2 (Bloor-Danforth),Mechanical,2762.0,459,72
+2024,Line 2 (Bloor-Danforth),Operations/Crew,2594.0,1464,929
+2024,Line 2 (Bloor-Danforth),Security,8788.0,3119,2159
+2024,Line 2 (Bloor-Danforth),Track/Overhead,4391.0,1530,1058
+2024,Line 2 (Bloor-Danforth),Unclassified,1670.0,1027,670
+2024,Line 3 (Scarborough),Emergency/Medical,0.0,1,1
+2024,Line 3 (Scarborough),Security,0.0,1,1
+2024,Line 4 (Sheppard),Cleaning/Sanitation,61.0,31,22
+2024,Line 4 (Sheppard),Emergency/Medical,348.0,176,146
+2024,Line 4 (Sheppard),Mechanical,63.0,16,5
+2024,Line 4 (Sheppard),Operations/Crew,240.0,146,101
+2024,Line 4 (Sheppard),Security,841.0,190,121
+2024,Line 4 (Sheppard),Track/Overhead,889.0,246,150
+2024,Line 4 (Sheppard),Unclassified,229.0,85,56
+2024,ONGE-UNIVERSITY AND BL,Unclassified,0.0,1,1
+2024,SHEP,Emergency/Medical,0.0,1,1
+2024,TRACK LEVEL ACTIVITY,Unclassified,0.0,1,1
+2025,,Cleaning/Sanitation,0.0,8,8
+2025,,Emergency/Medical,0.0,21,21
+2025,,Mechanical,0.0,1,1
+2025,,Operations/Crew,0.0,9,9
+2025,,Security,0.0,14,14
+2025,,Track/Overhead,0.0,2,2
+2025,,Unclassified,3.0,22,21
+2025,116 MORNINGSIDE,Unclassified,0.0,1,1
+2025,29 DUFFERIN,Security,0.0,1,1
+2025,508 LAKESHORE,Unclassified,0.0,1,1
+2025,62 MORTIMER,Collision,14.0,1,0
+2025,95 YORK MILLS,Emergency/Medical,0.0,1,1
+2025,EC,Unclassified,0.0,2,2
+2025,LINE 1,Unclassified,0.0,1,1
+2025,LINE 2 - BLOOR DANFORT,Operations/Crew,0.0,1,1
+2025,Line 1 (Yonge-University),Cleaning/Sanitation,1083.0,304,73
+2025,Line 1 (Yonge-University),Collision,898.0,12,0
+2025,Line 1 (Yonge-University),Emergency/Medical,6071.0,3310,2672
+2025,Line 1 (Yonge-University),Mechanical,2321.0,415,91
+2025,Line 1 (Yonge-University),Operations/Crew,3764.0,2059,1430
+2025,Line 1 (Yonge-University),Security,10432.0,3494,2273
+2025,Line 1 (Yonge-University),Track/Overhead,9122.0,2089,860
+2025,Line 1 (Yonge-University),Unclassified,3994.0,1747,978
+2025,Line 2 (Bloor-Danforth),Cleaning/Sanitation,957.0,337,111
+2025,Line 2 (Bloor-Danforth),Collision,792.0,9,0
+2025,Line 2 (Bloor-Danforth),Emergency/Medical,4263.0,2618,2177
+2025,Line 2 (Bloor-Danforth),Mechanical,2469.0,445,64
+2025,Line 2 (Bloor-Danforth),Operations/Crew,3568.0,2096,1401
+2025,Line 2 (Bloor-Danforth),Security,6995.0,2637,1783
+2025,Line 2 (Bloor-Danforth),Track/Overhead,6142.0,2209,1514
+2025,Line 2 (Bloor-Danforth),Unclassified,2218.0,800,417
+2025,Line 3 (Scarborough),Emergency/Medical,0.0,1,1
+2025,Line 4 (Sheppard),Cleaning/Sanitation,74.0,28,13
+2025,Line 4 (Sheppard),Emergency/Medical,245.0,150,129
+2025,Line 4 (Sheppard),Mechanical,93.0,21,4
+2025,Line 4 (Sheppard),Operations/Crew,407.0,287,209
+2025,Line 4 (Sheppard),Security,472.0,142,100
+2025,Line 4 (Sheppard),Track/Overhead,1706.0,361,208
+2025,Line 4 (Sheppard),Unclassified,118.0,76,50
+2026,,Cleaning/Sanitation,0.0,9,9
+2026,,Emergency/Medical,5.0,20,19
+2026,,Operations/Crew,0.0,6,6
+2026,,Security,0.0,16,16
+2026,,Track/Overhead,0.0,5,5
+2026,,Unclassified,0.0,44,44
+2026,47 LANSDOWNE,Emergency/Medical,0.0,1,1
+2026,50 BURNHAMTHORPE,Emergency/Medical,0.0,1,1
+2026,504 KING,Security,33.0,1,0
+2026,506 CARLTON,Security,38.0,1,0
+2026,60 STEELES WEST,Security,0.0,1,1
+2026,76 ROYAL YORK SOUTH,Security,10.0,1,0
+2026,999,Unclassified,0.0,1,1
+2026,LINE 2 BLOOR-DANFORTH,Unclassified,0.0,1,1
+2026,Line 1 (Yonge-University),Cleaning/Sanitation,903.0,264,55
+2026,Line 1 (Yonge-University),Collision,315.0,6,1
+2026,Line 1 (Yonge-University),Emergency/Medical,3627.0,2686,2231
+2026,Line 1 (Yonge-University),Mechanical,1804.0,305,52
+2026,Line 1 (Yonge-University),Operations/Crew,2457.0,840,392
+2026,Line 1 (Yonge-University),Security,6129.0,2670,1874
+2026,Line 1 (Yonge-University),Track/Overhead,4430.0,1478,770
+2026,Line 1 (Yonge-University),Unclassified,3270.0,2044,1339
+2026,Line 2 (Bloor-Danforth),Cleaning/Sanitation,631.0,218,65
+2026,Line 2 (Bloor-Danforth),Collision,624.0,6,0
+2026,Line 2 (Bloor-Danforth),Emergency/Medical,3792.0,2084,1687
+2026,Line 2 (Bloor-Danforth),Mechanical,2421.0,376,51
+2026,Line 2 (Bloor-Danforth),Operations/Crew,2838.0,1246,685
+2026,Line 2 (Bloor-Danforth),Security,5327.0,2063,1391
+2026,Line 2 (Bloor-Danforth),Track/Overhead,3997.0,1434,1021
+2026,Line 2 (Bloor-Danforth),Unclassified,1580.0,1188,872
+2026,Line 3 (Scarborough),Emergency/Medical,0.0,1,1
+2026,Line 3 (Scarborough),Security,0.0,1,1
+2026,Line 3 (Scarborough),Track/Overhead,0.0,1,1
+2026,Line 3 (Scarborough),Unclassified,0.0,1,1
+2026,Line 4 (Sheppard),Cleaning/Sanitation,49.0,15,3
+2026,Line 4 (Sheppard),Emergency/Medical,122.0,111,91
+2026,Line 4 (Sheppard),Mechanical,119.0,34,12
+2026,Line 4 (Sheppard),Operations/Crew,232.0,83,44
+2026,Line 4 (Sheppard),Security,219.0,77,51
+2026,Line 4 (Sheppard),Track/Overhead,1009.0,313,180
+2026,Line 4 (Sheppard),Unclassified,89.0,74,50
+2026,TRANSIT CONTROL,Unclassified,0.0,1,1
+2026,WOODBINE STN,Security,0.0,1,1

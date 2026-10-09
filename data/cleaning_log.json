@@ -1,0 +1,165 @@
+{
+ "sheets_skipped": [],
+ "rules": {
+  "R0_drop_unparseable_date": 0,
+  "R1_drop_placeholder_line_999_500": 1752,
+  "R2_drop_min_delay_999_cap": 1235,
+  "R3_drop_min_delay_over_300": 5391,
+  "R3b_drop_negative_min_delay": 10,
+  "R4_zero_minute_rows_kept_and_flagged": 221620,
+  "R5_station_names_normalized": 2099
+ },
+ "files": {
+  "ttc-subway-delay-data__ttc-subway-delay-data-2018.xlsx": {
+   "raw_rows": 20737,
+   "era": "pre-2025"
+  },
+  "ttc-subway-delay-data__ttc-subway-delay-data-2019.xlsx": {
+   "raw_rows": 19222,
+   "era": "pre-2025"
+  },
+  "ttc-subway-delay-data__ttc-subway-delay-data-2020.xlsx": {
+   "raw_rows": 14782,
+   "era": "pre-2025"
+  },
+  "ttc-subway-delay-data__ttc-subway-delay-data-2021.xlsx": {
+   "raw_rows": 16370,
+   "era": "pre-2025"
+  },
+  "ttc-subway-delay-data__ttc-subway-delay-data-2022.xlsx": {
+   "raw_rows": 19895,
+   "era": "pre-2025"
+  },
+  "ttc-subway-delay-data__ttc-subway-delay-data-2023.xlsx": {
+   "raw_rows": 22949,
+   "era": "pre-2025"
+  },
+  "ttc-subway-delay-data__ttc-subway-delay-data-2024.xlsx": {
+   "raw_rows": 26467,
+   "era": "pre-2025"
+  },
+  "ttc-subway-delay-data__ttc-subway-delay-jan-2014-april-2017.xlsx": {
+   "raw_rows": 69016,
+   "era": "pre-2025"
+  },
+  "ttc-subway-delay-data__ttc-subway-delay-may-december-2017.xlsx": {
+   "raw_rows": 12929,
+   "era": "pre-2025"
+  },
+  "ttc-subway-delay-data__TTC Subway Delay Data since 2025.csv.csv": {
+   "raw_rows": 45475,
+   "era": "2025+"
+  },
+  "ttc-streetcar-delay-data__ttc-streetcar-delay-data-2014.xlsx": {
+   "raw_rows": 11027,
+   "era": "pre-2025"
+  },
+  "ttc-streetcar-delay-data__ttc-streetcar-delay-data-2015.xlsx": {
+   "raw_rows": 12221,
+   "era": "pre-2025"
+  },
+  "ttc-streetcar-delay-data__ttc-streetcar-delay-data-2016.xlsx": {
+   "raw_rows": 14021,
+   "era": "pre-2025"
+  },
+  "ttc-streetcar-delay-data__ttc-streetcar-delay-data-2017.xlsx": {
+   "raw_rows": 13762,
+   "era": "pre-2025"
+  },
+  "ttc-streetcar-delay-data__ttc-streetcar-delay-data-2018.xlsx": {
+   "raw_rows": 15612,
+   "era": "pre-2025"
+  },
+  "ttc-streetcar-delay-data__ttc-streetcar-delay-data-2019.xlsx": {
+   "raw_rows": 11882,
+   "era": "pre-2025"
+  },
+  "ttc-streetcar-delay-data__ttc-streetcar-delay-data-2020.xlsx": {
+   "raw_rows": 7830,
+   "era": "pre-2025"
+  },
+  "ttc-streetcar-delay-data__ttc-streetcar-delay-data-2021.xlsx": {
+   "raw_rows": 14596,
+   "era": "pre-2025"
+  },
+  "ttc-streetcar-delay-data__ttc-streetcar-delay-data-2022.xlsx": {
+   "raw_rows": 17655,
+   "era": "pre-2025"
+  },
+  "ttc-streetcar-delay-data__ttc-streetcar-delay-data-2023.xlsx": {
+   "raw_rows": 14413,
+   "era": "pre-2025"
+  },
+  "ttc-streetcar-delay-data__ttc-streetcar-delay-data-2024.xlsx": {
+   "raw_rows": 14206,
+   "era": "pre-2025"
+  },
+  "ttc-streetcar-delay-data__TTC Streetcar Delay Data since 2025.csv.csv": {
+   "raw_rows": 23703,
+   "era": "2025+"
+  },
+  "ttc-bus-delay-data__ttc-bus-delay-data-2014.xlsx": {
+   "raw_rows": 94217,
+   "era": "pre-2025"
+  },
+  "ttc-bus-delay-data__ttc-bus-delay-data-2015.xlsx": {
+   "raw_rows": 76510,
+   "era": "pre-2025"
+  },
+  "ttc-bus-delay-data__ttc-bus-delay-data-2016.xlsx": {
+   "raw_rows": 77088,
+   "era": "pre-2025"
+  },
+  "ttc-bus-delay-data__ttc-bus-delay-data-2017.xlsx": {
+   "raw_rows": 70303,
+   "era": "pre-2025"
+  },
+  "ttc-bus-delay-data__ttc-bus-delay-data-2018.xlsx": {
+   "raw_rows": 73927,
+   "era": "pre-2025"
+  },
+  "ttc-bus-delay-data__ttc-bus-delay-data-2019.xlsx": {
+   "raw_rows": 62376,
+   "era": "pre-2025"
+  },
+  "ttc-bus-delay-data__ttc-bus-delay-data-2020.xlsx": {
+   "raw_rows": 36151,
+   "era": "pre-2025"
+  },
+  "ttc-bus-delay-data__ttc-bus-delay-data-2021.xlsx": {
+   "raw_rows": 42269,
+   "era": "pre-2025"
+  },
+  "ttc-bus-delay-data__ttc-bus-delay-data-2022.xlsx": {
+   "raw_rows": 58707,
+   "era": "pre-2025"
+  },
+  "ttc-bus-delay-data__ttc-bus-delay-data-2023.xlsx": {
+   "raw_rows": 56207,
+   "era": "pre-2025"
+  },
+  "ttc-bus-delay-data__ttc-bus-delay-data-2024.xlsx": {
+   "raw_rows": 59643,
+   "era": "pre-2025"
+  },
+  "ttc-bus-delay-data__TTC Bus Delay Data since 2025.csv.csv": {
+   "raw_rows": 102257,
+   "era": "2025+"
+  }
+ },
+ "raw_rows_total": 1248425,
+ "cleaned_rows_total": 1240037,
+ "cleaned_by_mode": {
+  "bus": 802036,
+  "subway": 267795,
+  "streetcar": 170206
+ },
+ "cleaned_by_mode_era": {
+  "bus|2025+": 100901,
+  "bus|pre-2025": 701135,
+  "streetcar|2025+": 23504,
+  "streetcar|pre-2025": 146702,
+  "subway|2025+": 45462,
+  "subway|pre-2025": 222333
+ }
+}

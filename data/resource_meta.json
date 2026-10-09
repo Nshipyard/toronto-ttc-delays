@@ -1,0 +1,441 @@
+{
+ "ttc-subway-delay-data": {
+  "title": "TTC Subway Delay Data",
+  "last_refreshed": "2026-09-21 12:50:39.597734",
+  "resources": {
+   "ttc-subway-delay-codes": {
+    "id": "3900e649-f31e-4b79-9f20-4731bbfd94f7",
+    "format": "XLSX",
+    "size": 20206,
+    "last_modified": "2022-04-06T18:51:05",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/3900e649-f31e-4b79-9f20-4731bbfd94f7/download/ttc-subway-delay-codes.xlsx"
+   },
+   "ttc-subway-delay-data-readme": {
+    "id": "ca43ac3d-3940-4315-889b-a9375e7b8aa4",
+    "format": "XLSX",
+    "size": 12704,
+    "last_modified": "2022-04-06T18:51:09",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/ca43ac3d-3940-4315-889b-a9375e7b8aa4/download/ttc-subway-delay-data-readme.xlsx"
+   },
+   "ttc-subway-delay-jan-2014-april-2017": {
+    "id": "8ca4a6ed-5e7e-4b9d-b950-bf45e4b2fe20",
+    "format": "XLSX",
+    "size": 3698719,
+    "last_modified": "2022-04-06T15:11:29",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/8ca4a6ed-5e7e-4b9d-b950-bf45e4b2fe20/download/ttc-subway-delay-jan-2014-april-2017.xlsx"
+   },
+   "ttc-subway-delay-may-december-2017": {
+    "id": "e2ee9f63-3130-4d6a-a259-ce79c9c2f1bc",
+    "format": "XLSX",
+    "size": 688838,
+    "last_modified": "2022-04-06T15:09:14",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/e2ee9f63-3130-4d6a-a259-ce79c9c2f1bc/download/ttc-subway-delay-may-december-2017.xlsx"
+   },
+   "ttc-subway-delay-data-2018": {
+    "id": "32bd0973-e83d-4df1-8219-c8c55cf34c6d",
+    "format": "XLSX",
+    "size": 1087991,
+    "last_modified": "2022-04-06T15:40:34",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/32bd0973-e83d-4df1-8219-c8c55cf34c6d/download/ttc-subway-delay-data-2018.xlsx"
+   },
+   "ttc-subway-delay-data-2019": {
+    "id": "1df6aace-fa16-40e9-a0d3-416a912bfaf1",
+    "format": "XLSX",
+    "size": 1012697,
+    "last_modified": "2022-04-06T15:52:59",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/1df6aace-fa16-40e9-a0d3-416a912bfaf1/download/ttc-subway-delay-data-2019.xlsx"
+   },
+   "ttc-subway-delay-data-2020": {
+    "id": "1ba66ead-cddf-453d-859d-b349d3286f02",
+    "format": "XLSX",
+    "size": 782670,
+    "last_modified": "2022-04-06T18:45:26",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/1ba66ead-cddf-453d-859d-b349d3286f02/download/ttc-subway-delay-data-2020.xlsx"
+   },
+   "ttc-subway-delay-data-2021": {
+    "id": "c6e4f5eb-6ed7-4db1-944f-87406faa5a09",
+    "format": "XLSX",
+    "size": 889437,
+    "last_modified": "2022-04-06T15:27:54",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/c6e4f5eb-6ed7-4db1-944f-87406faa5a09/download/ttc-subway-delay-data-2021.xlsx"
+   },
+   "ttc-subway-delay-data-2022": {
+    "id": "441143ca-8194-44ce-a954-19f8141817c7",
+    "format": "XLSX",
+    "size": 292580,
+    "last_modified": "2023-01-23T13:53:00",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/441143ca-8194-44ce-a954-19f8141817c7/download/ttc-subway-delay-data-2022.xlsx"
+   },
+   "ttc-subway-delay-data-2023": {
+    "id": "2fbec48b-33d9-4897-a572-96c9f002d66a",
+    "format": "XLSX",
+    "size": 1237103,
+    "last_modified": "2024-01-18T21:03:20",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/2fbec48b-33d9-4897-a572-96c9f002d66a/download/ttc-subway-delay-data-2023.xlsx"
+   },
+   "ttc-subway-delay-data-2024": {
+    "id": "2ee1a65c-da06-4ad1-bdfb-b1a57701e46a",
+    "format": "XLSX",
+    "size": 1423602,
+    "last_modified": "2025-01-21T18:42:29",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/2ee1a65c-da06-4ad1-bdfb-b1a57701e46a/download/ttc-subway-delay-data-2024.xlsx"
+   },
+   "TTC Subway Delay Data since 2025": {
+    "id": "6088e14f-e46e-4f5c-9daa-dea1359ad396",
+    "format": "XLSX",
+    "size": null,
+    "last_modified": null,
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/6088e14f-e46e-4f5c-9daa-dea1359ad396/download/TTC%20Subway%20Delay%20Data%20since%202025.xlsx"
+   },
+   "TTC Subway Delay Data since 2025.csv": {
+    "id": "0b6e5c52-e993-46d6-8d74-8602ee224457",
+    "format": "CSV",
+    "size": 3069485,
+    "last_modified": "2026-09-21T12:50:36.746003",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/0b6e5c52-e993-46d6-8d74-8602ee224457/download/TTC%20Subway%20Delay%20Data%20since%202025.csv.csv"
+   },
+   "TTC Subway Delay Data since 2025.xml": {
+    "id": "021e6a9d-d31e-436a-bea5-72461f3faa3b",
+    "format": "XML",
+    "size": 11217078,
+    "last_modified": "2026-09-21T12:50:38.421804",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/021e6a9d-d31e-436a-bea5-72461f3faa3b/download/TTC%20Subway%20Delay%20Data%20since%202025.xml.xml"
+   },
+   "TTC Subway Delay Data since 2025.json": {
+    "id": "fed58a09-14bc-403f-9166-00397c7822a7",
+    "format": "JSON",
+    "size": 9104182,
+    "last_modified": "2026-09-21T12:50:39.597734",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/fed58a09-14bc-403f-9166-00397c7822a7/download/TTC%20Subway%20Delay%20Data%20since%202025.json.json"
+   },
+   "Code Descriptions": {
+    "id": "9e9efbb6-3a2f-4934-ac94-9150ecaeb548",
+    "format": "XLSX",
+    "size": null,
+    "last_modified": null,
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/9e9efbb6-3a2f-4934-ac94-9150ecaeb548/download/Code%20Descriptions.xlsx"
+   },
+   "Code Descriptions.csv": {
+    "id": "b2d8f5e0-0997-46b5-8abd-caa685a0290b",
+    "format": "CSV",
+    "size": 5610,
+    "last_modified": "2025-04-07T19:22:45.345293",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/b2d8f5e0-0997-46b5-8abd-caa685a0290b/download/Code%20Descriptions.csv.csv"
+   },
+   "Code Descriptions.xml": {
+    "id": "17c3d86c-0691-4227-b546-eda280ef6fec",
+    "format": "XML",
+    "size": 15374,
+    "last_modified": "2025-04-07T19:22:46.878337",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/17c3d86c-0691-4227-b546-eda280ef6fec/download/Code%20Descriptions.xml.xml"
+   },
+   "Code Descriptions.json": {
+    "id": "5bfef644-1bd8-4b8a-849b-95697c845cdc",
+    "format": "JSON",
+    "size": 11222,
+    "last_modified": "2025-04-07T19:22:48.430241",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/996cfe8d-fb35-40ce-b569-698d51fc683b/resource/5bfef644-1bd8-4b8a-849b-95697c845cdc/download/Code%20Descriptions.json.json"
+   }
+  }
+ },
+ "ttc-streetcar-delay-data": {
+  "title": "TTC Streetcar Delay Data",
+  "last_refreshed": "2026-09-21 12:39:58.077997",
+  "resources": {
+   "ttc-streetcar-delay-data-readme": {
+    "id": "0fe61851-c67b-49bc-8c27-3a89b33b43af",
+    "format": "XLSX",
+    "size": 12886,
+    "last_modified": "2022-04-05T19:14:38",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/0fe61851-c67b-49bc-8c27-3a89b33b43af/download/ttc-streetcar-delay-data-readme.xlsx"
+   },
+   "ttc-streetcar-delay-data-2014": {
+    "id": "09c9096f-b1bb-47fa-b2fd-55362d8e2bbd",
+    "format": "XLSX",
+    "size": 822301,
+    "last_modified": "2022-04-05T19:14:34",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/09c9096f-b1bb-47fa-b2fd-55362d8e2bbd/download/ttc-streetcar-delay-data-2014.xlsx"
+   },
+   "ttc-streetcar-delay-data-2015": {
+    "id": "1ca48483-80b3-473b-9b0b-8c633b071054",
+    "format": "XLSX",
+    "size": 910656,
+    "last_modified": "2022-04-05T19:14:34",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/1ca48483-80b3-473b-9b0b-8c633b071054/download/ttc-streetcar-delay-data-2015.xlsx"
+   },
+   "ttc-streetcar-delay-data-2016": {
+    "id": "62714aea-ce26-4aac-9e61-c6bb9d09fc0e",
+    "format": "XLSX",
+    "size": 1030100,
+    "last_modified": "2022-04-05T19:14:32",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/62714aea-ce26-4aac-9e61-c6bb9d09fc0e/download/ttc-streetcar-delay-data-2016.xlsx"
+   },
+   "ttc-streetcar-delay-data-2017": {
+    "id": "a6a730a7-25d1-4e77-98e7-cc14e79fd5f6",
+    "format": "XLSX",
+    "size": 2085182,
+    "last_modified": "2022-04-05T19:14:32",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/a6a730a7-25d1-4e77-98e7-cc14e79fd5f6/download/ttc-streetcar-delay-data-2017.xlsx"
+   },
+   "ttc-streetcar-delay-data-2018": {
+    "id": "75bae9cb-b5ec-483e-b339-ba2d0002dd88",
+    "format": "XLSX",
+    "size": 1021294,
+    "last_modified": "2022-04-05T19:14:30",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/75bae9cb-b5ec-483e-b339-ba2d0002dd88/download/ttc-streetcar-delay-data-2018.xlsx"
+   },
+   "ttc-streetcar-delay-data-2019": {
+    "id": "437a5889-2bc9-4bd3-9561-0ae4a9722655",
+    "format": "XLSX",
+    "size": 759867,
+    "last_modified": "2022-04-05T19:14:00",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/437a5889-2bc9-4bd3-9561-0ae4a9722655/download/ttc-streetcar-delay-data-2019.xlsx"
+   },
+   "ttc-streetcar-delay-data-2020\t": {
+    "id": "71b8b735-8a89-45a9-afb0-3edc38b2fad9",
+    "format": "XLSX",
+    "size": 500709,
+    "last_modified": "2022-04-12T17:28:44.915291",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/71b8b735-8a89-45a9-afb0-3edc38b2fad9/download/ttc-streetcar-delay-data-2020\t.xlsx"
+   },
+   "ttc-streetcar-delay-data-2021": {
+    "id": "ecc4f0a8-25e6-40d8-ae70-8006e38c4f9a",
+    "format": "XLSX",
+    "size": 535423,
+    "last_modified": "2022-04-06T14:43:57",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/ecc4f0a8-25e6-40d8-ae70-8006e38c4f9a/download/ttc-streetcar-delay-data-2021.xlsx"
+   },
+   "ttc-streetcar-delay-data-2020": {
+    "id": "082d481b-f94f-4dee-9a5f-08eb9784053e",
+    "format": "XLSX",
+    "size": 500709,
+    "last_modified": "2022-04-05T19:13:22",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/082d481b-f94f-4dee-9a5f-08eb9784053e/download/ttc-streetcar-delay-data-2020.xlsx"
+   },
+   "ttc-streetcar-delay-data-2022": {
+    "id": "28547222-35fe-48b6-ac4b-ccc67d286393",
+    "format": "XLSX",
+    "size": 315572,
+    "last_modified": "2023-01-23T13:54:00",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/28547222-35fe-48b6-ac4b-ccc67d286393/download/ttc-streetcar-delay-data-2022.xlsx"
+   },
+   "ttc-streetcar-delay-data-2023": {
+    "id": "472d838d-e41a-4616-a11b-585d26d59777",
+    "format": "XLSX",
+    "size": 853122,
+    "last_modified": "2024-01-18T21:02:52",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/472d838d-e41a-4616-a11b-585d26d59777/download/ttc-streetcar-delay-data-2023.xlsx"
+   },
+   "ttc-streetcar-delay-data-2024": {
+    "id": "5f527714-2284-437b-958b-c02b6f21eb9d",
+    "format": "XLSX",
+    "size": 844940,
+    "last_modified": "2025-01-21T18:42:44",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/5f527714-2284-437b-958b-c02b6f21eb9d/download/ttc-streetcar-delay-data-2024.xlsx"
+   },
+   "TTC Streetcar Delay Data since 2025": {
+    "id": "7d545629-745c-4fbf-a348-76692bb2772d",
+    "format": "XLSX",
+    "size": null,
+    "last_modified": null,
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/7d545629-745c-4fbf-a348-76692bb2772d/download/TTC%20Streetcar%20Delay%20Data%20since%202025.xlsx"
+   },
+   "TTC Streetcar Delay Data since 2025.csv": {
+    "id": "cf2fdd12-6f0e-4644-aae7-0bbfc31df031",
+    "format": "CSV",
+    "size": 1882886,
+    "last_modified": "2026-09-21T12:39:55.662429",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/cf2fdd12-6f0e-4644-aae7-0bbfc31df031/download/TTC%20Streetcar%20Delay%20Data%20since%202025.csv.csv"
+   },
+   "TTC Streetcar Delay Data since 2025.xml": {
+    "id": "e0e35789-0ac4-4042-9c5b-d1cd9f7e180e",
+    "format": "XML",
+    "size": 6113645,
+    "last_modified": "2026-09-21T12:39:57.080640",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/e0e35789-0ac4-4042-9c5b-d1cd9f7e180e/download/TTC%20Streetcar%20Delay%20Data%20since%202025.xml.xml"
+   },
+   "TTC Streetcar Delay Data since 2025.json": {
+    "id": "6f3c2a92-a348-41e4-b31c-15dcb14d50bf",
+    "format": "JSON",
+    "size": 5022967,
+    "last_modified": "2026-09-21T12:39:58.077997",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/6f3c2a92-a348-41e4-b31c-15dcb14d50bf/download/TTC%20Streetcar%20Delay%20Data%20since%202025.json.json"
+   },
+   "Code Descriptions": {
+    "id": "b1fc714c-c533-424c-8ce4-4994e9c6fb1d",
+    "format": "XLSX",
+    "size": null,
+    "last_modified": null,
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/b1fc714c-c533-424c-8ce4-4994e9c6fb1d/download/Code%20Descriptions.xlsx"
+   },
+   "Code Descriptions.csv": {
+    "id": "06d13be4-a8b7-4365-ac68-2169de8e0630",
+    "format": "CSV",
+    "size": 2791,
+    "last_modified": "2025-04-07T19:22:11.131875",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/06d13be4-a8b7-4365-ac68-2169de8e0630/download/Code%20Descriptions.csv.csv"
+   },
+   "Code Descriptions.xml": {
+    "id": "b52ce141-2d85-40b0-9eb8-d197619aa5ff",
+    "format": "XML",
+    "size": 8676,
+    "last_modified": "2025-04-07T19:22:12.736884",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/b52ce141-2d85-40b0-9eb8-d197619aa5ff/download/Code%20Descriptions.xml.xml"
+   },
+   "Code Descriptions.json": {
+    "id": "4f2f6528-3c3b-4dd8-91c4-b71fba78f457",
+    "format": "JSON",
+    "size": 6096,
+    "last_modified": "2025-04-07T19:22:14.298587",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/b68cb71b-44a7-4394-97e2-5d2f41462a5d/resource/4f2f6528-3c3b-4dd8-91c4-b71fba78f457/download/Code%20Descriptions.json.json"
+   }
+  }
+ },
+ "ttc-bus-delay-data": {
+  "title": "TTC Bus Delay Data",
+  "last_refreshed": "2026-09-21 12:32:40.647204",
+  "resources": {
+   "ttc-bus-delay-data-readme": {
+    "id": "71bb1283-7388-4d23-aa4e-0f393a80abce",
+    "format": "XLSX",
+    "size": 12839,
+    "last_modified": "2022-04-05T19:21:58",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/71bb1283-7388-4d23-aa4e-0f393a80abce/download/ttc-bus-delay-data-readme.xlsx"
+   },
+   "ttc-bus-delay-data-2014": {
+    "id": "97b66e92-3587-4436-bd2b-bf12bc0cf683",
+    "format": "XLSX",
+    "size": 6827210,
+    "last_modified": "2022-04-05T19:21:58",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/97b66e92-3587-4436-bd2b-bf12bc0cf683/download/ttc-bus-delay-data-2014.xlsx"
+   },
+   "ttc-bus-delay-data-2015": {
+    "id": "8244e87c-e1fe-49d0-82d0-7facc3a07a7c",
+    "format": "XLSX",
+    "size": 5624928,
+    "last_modified": "2022-04-05T19:21:55",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/8244e87c-e1fe-49d0-82d0-7facc3a07a7c/download/ttc-bus-delay-data-2015.xlsx"
+   },
+   "ttc-bus-delay-data-2016": {
+    "id": "f01fd30e-c0f0-440e-a26a-fc35c4035710",
+    "format": "XLSX",
+    "size": 5710582,
+    "last_modified": "2022-04-05T19:21:55",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/f01fd30e-c0f0-440e-a26a-fc35c4035710/download/ttc-bus-delay-data-2016.xlsx"
+   },
+   "ttc-bus-delay-data-2017": {
+    "id": "f500350d-1fe0-40da-9da7-aeeba7af1f9f",
+    "format": "XLSX",
+    "size": 10376864,
+    "last_modified": "2022-04-05T19:21:54",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/f500350d-1fe0-40da-9da7-aeeba7af1f9f/download/ttc-bus-delay-data-2017.xlsx"
+   },
+   "ttc-bus-delay-data-2018": {
+    "id": "99c5d4de-a959-4afc-9299-3699a2c193b9",
+    "format": "XLSX",
+    "size": 4849428,
+    "last_modified": "2022-04-05T19:21:51",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/99c5d4de-a959-4afc-9299-3699a2c193b9/download/ttc-bus-delay-data-2018.xlsx"
+   },
+   "ttc-bus-delay-data-2019": {
+    "id": "b44b34c5-8dca-4e56-a70d-7d6666e02d3f",
+    "format": "XLSX",
+    "size": 3947457,
+    "last_modified": "2022-04-05T19:21:50",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/b44b34c5-8dca-4e56-a70d-7d6666e02d3f/download/ttc-bus-delay-data-2019.xlsx"
+   },
+   "ttc-bus-delay-data-2020": {
+    "id": "e5f6e6cb-2b9f-4436-aab7-283e9460bc8f",
+    "format": "XLSX",
+    "size": 2278860,
+    "last_modified": "2022-04-05T19:21:47",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/e5f6e6cb-2b9f-4436-aab7-283e9460bc8f/download/ttc-bus-delay-data-2020.xlsx"
+   },
+   "ttc-bus-delay-data-2021": {
+    "id": "94c11eb2-1465-47a2-b321-61f1e258f5a3",
+    "format": "XLSX",
+    "size": 1594308,
+    "last_modified": "2022-04-06T14:25:32",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/94c11eb2-1465-47a2-b321-61f1e258f5a3/download/ttc-bus-delay-data-2021.xlsx"
+   },
+   "ttc-bus-delay-data-2022": {
+    "id": "3b3c2673-5231-4aac-8b6a-dc558dce588c",
+    "format": "XLSX",
+    "size": 843429,
+    "last_modified": "2023-01-23T13:56:00",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/3b3c2673-5231-4aac-8b6a-dc558dce588c/download/ttc-bus-delay-data-2022.xlsx"
+   },
+   "ttc-bus-delay-data-2023": {
+    "id": "10802a64-9ac0-4f2e-9538-04800a399d1e",
+    "format": "XLSX",
+    "size": 3388271,
+    "last_modified": "2024-01-18T21:03:11",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/10802a64-9ac0-4f2e-9538-04800a399d1e/download/ttc-bus-delay-data-2023.xlsx"
+   },
+   "ttc-bus-delay-data-2024": {
+    "id": "7823b829-9952-4e4c-ac8f-0fe2ef53901c",
+    "format": "XLSX",
+    "size": 3590303,
+    "last_modified": "2025-01-21T18:42:59",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/7823b829-9952-4e4c-ac8f-0fe2ef53901c/download/ttc-bus-delay-data-2024.xlsx"
+   },
+   "TTC Bus Delay Data since 2025": {
+    "id": "c3451ac9-c04a-4645-bd80-0e2a3b7d7199",
+    "format": "XLSX",
+    "size": null,
+    "last_modified": null,
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/c3451ac9-c04a-4645-bd80-0e2a3b7d7199/download/TTC%20Bus%20Delay%20Data%20since%202025.xlsx"
+   },
+   "TTC Bus Delay Data since 2025.csv": {
+    "id": "b5725365-9252-4bfe-b6f4-cda7ddf74341",
+    "format": "CSV",
+    "size": 9492730,
+    "last_modified": "2026-09-21T12:32:37.710724",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/b5725365-9252-4bfe-b6f4-cda7ddf74341/download/TTC%20Bus%20Delay%20Data%20since%202025.csv.csv"
+   },
+   "TTC Bus Delay Data since 2025.xml": {
+    "id": "7124b998-bcaa-49a1-91d9-ee4e7137704f",
+    "format": "XML",
+    "size": 27775911,
+    "last_modified": "2026-09-21T12:32:39.283318",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/7124b998-bcaa-49a1-91d9-ee4e7137704f/download/TTC%20Bus%20Delay%20Data%20since%202025.xml.xml"
+   },
+   "TTC Bus Delay Data since 2025.json": {
+    "id": "69a35f47-9f24-4080-8d52-708b040e6300",
+    "format": "JSON",
+    "size": 23035665,
+    "last_modified": "2026-09-21T12:32:40.647204",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/69a35f47-9f24-4080-8d52-708b040e6300/download/TTC%20Bus%20Delay%20Data%20since%202025.json.json"
+   },
+   "Code Descriptions": {
+    "id": "816f2214-97e2-4c4b-820e-24b425ed08e0",
+    "format": "XLSX",
+    "size": null,
+    "last_modified": null,
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/816f2214-97e2-4c4b-820e-24b425ed08e0/download/Code%20Descriptions.xlsx"
+   },
+   "Code Descriptions.csv": {
+    "id": "874ae66c-9f6f-443f-91e0-1d37d416e0d8",
+    "format": "CSV",
+    "size": 1340,
+    "last_modified": "2025-04-07T19:21:37.400182",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/874ae66c-9f6f-443f-91e0-1d37d416e0d8/download/Code%20Descriptions.csv.csv"
+   },
+   "Code Descriptions.xml": {
+    "id": "efecb2d3-018f-49c9-887c-2d83d7c8f3c3",
+    "format": "XML",
+    "size": 4538,
+    "last_modified": "2025-04-07T19:21:38.980018",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/efecb2d3-018f-49c9-887c-2d83d7c8f3c3/download/Code%20Descriptions.xml.xml"
+   },
+   "Code Descriptions.json": {
+    "id": "1fd9edd5-fc3a-4c1d-b524-95efcdc8eb8a",
+    "format": "JSON",
+    "size": 3142,
+    "last_modified": "2025-04-07T19:21:40.629062",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/e271cdae-8788-4980-96ce-6a5c95bc6618/resource/1fd9edd5-fc3a-4c1d-b524-95efcdc8eb8a/download/Code%20Descriptions.json.json"
+   }
+  }
+ },
+ "pull_date": "2026-10-09"
+}

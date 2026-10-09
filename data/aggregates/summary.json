@@ -1,0 +1,48 @@
+{
+ "crosswalk_version": "v1",
+ "total_incidents": 1240037,
+ "total_delay_minutes": 15109658.0,
+ "by_mode": [
+  {
+   "mode": "bus",
+   "incidents": 802036,
+   "delay_minutes": 12234187.0
+  },
+  {
+   "mode": "streetcar",
+   "incidents": 170206,
+   "delay_minutes": 2214639.0
+  },
+  {
+   "mode": "subway",
+   "incidents": 267795,
+   "delay_minutes": 660832.0
+  }
+ ],
+ "by_mode_era": {
+  "bus|2025+": 100901,
+  "bus|pre-2025": 701135,
+  "streetcar|2025+": 23504,
+  "streetcar|pre-2025": 146702,
+  "subway|2025+": 45462,
+  "subway|pre-2025": 222333
+ },
+ "date_range": {
+  "min": "2014-01-01",
+  "max": "2026-08-31"
+ },
+ "crosswalk_methods": {
+  "official": 271,
+  "pattern": 94,
+  "official-legacy": 71,
+  "direct-label": 58,
+  "cross-mode-official": 45
+ },
+ "crosswalk_confidence": {
+  "high": 416,
+  "medium": 67,
+  "low": 56
+ },
+ "unmapped_rows": 0,
+ "zero_minute_rows": 221620
+}
