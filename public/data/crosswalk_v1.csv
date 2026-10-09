@@ -1,0 +1,540 @@
+crosswalk_version,mode,cause_code,official_description,category,method,confidence,note
+v1,bus,CLEANING,Cleaning,Cleaning/Sanitation,direct-label,high,
+v1,bus,CLEANING - DISINFECTION,Cleaning - Disinfection,Cleaning/Sanitation,direct-label,high,
+v1,bus,CLEANING - UNSANITARY,Cleaning - Unsanitary,Cleaning/Sanitation,direct-label,high,
+v1,bus,COLLISION - TTC,Collision - TTC,Collision,direct-label,high,
+v1,bus,COLLISION - TTC INVOLVED,Collision - TTC Involved,Collision,direct-label,high,
+v1,bus,DIVERSION,Diversion,Operations/Crew,direct-label,high,operational rerouting
+v1,bus,E,,Unclassified,pattern,high,placeholder or single-character fragment
+v1,bus,EFAS,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,bus,EFB,BODY,Mechanical,official,high,"equipment prefix, no other signal"
+v1,bus,EFBK,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,bus,EFCAN,CANCELLATION,Operations/Crew,official,high,
+v1,bus,EFCE,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,bus,EFCEL,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,bus,EFD,DOORS,Mechanical,official,high,"equipment prefix, no other signal"
+v1,bus,EFDB,DISC BRAKES,Mechanical,official,high,"equipment prefix, no other signal"
+v1,bus,EFEX,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,bus,EFFL,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,bus,EFFS,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,bus,EFHV,HIGH VOLTAGE,Mechanical,official,high,"equipment prefix, no other signal"
+v1,bus,EFHVA,HEAT / VENT / AC,Mechanical,official,high,"equipment prefix, no other signal"
+v1,bus,EFLT,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,bus,EFLV,LOW VOLTAGE,Mechanical,official,high,"equipment prefix, no other signal"
+v1,bus,EFO,OTHER,Unclassified,official,high,vague catch-all code
+v1,bus,EFP,PROPULSION,Mechanical,official,high,"equipment prefix, no other signal"
+v1,bus,EFPO,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,bus,EFRA,RAMP ISSUES,Mechanical,official,high,"equipment prefix, no other signal"
+v1,bus,EFSD,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,bus,EFSE,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,bus,EFSP,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,bus,EFT,TRUCKS,Mechanical,official,high,"equipment prefix, no other signal"
+v1,bus,EFTB,TRACK BRAKES,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,bus,EFTI,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,bus,EFTRM,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,bus,EFVC,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,bus,EFVIS,,Unclassified,pattern,medium,pattern: VIS implies vision issues; fits no category
+v1,bus,EFWA,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,bus,EFWS,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,bus,EMERGENCY SERVICES,Emergency Services,Emergency/Medical,direct-label,high,
+v1,bus,GENERAL DELAY,General Delay,Operations/Crew,direct-label,medium,vague catch-all; best fit is operational
+v1,bus,HELD BY,Held By,Operations/Crew,direct-label,medium,held by control/supervision
+v1,bus,INVESTIGATION,Investigation,Security,direct-label,medium,police investigation
+v1,bus,LATE,Late,Operations/Crew,direct-label,medium,vague late-departure label
+v1,bus,LATE ENTERING SERVICE,Late Entering Service,Operations/Crew,direct-label,high,
+v1,bus,LATE ENTERING SERVICE - MECHANICAL,Late Entering Service - Mechanical,Mechanical,direct-label,high,label names mechanical cause
+v1,bus,LATE LEAVING GARAGE,Late Leaving Garage,Operations/Crew,direct-label,high,
+v1,bus,LATE LEAVING GARAGE - MANAGEMENT,Late Leaving Garage - Management,Operations/Crew,direct-label,medium,
+v1,bus,LATE LEAVING GARAGE - MECHANICAL,Late Leaving Garage - Mechanical,Mechanical,direct-label,high,label names mechanical cause
+v1,bus,LATE LEAVING GARAGE - OPERATIONS,Late Leaving Garage - Operations,Operations/Crew,direct-label,high,
+v1,bus,LATE LEAVING GARAGE - OPERATOR,Late Leaving Garage - Operator,Operations/Crew,direct-label,high,
+v1,bus,LATE LEAVING GARAGE - VISION,Late Leaving Garage - Vision,Unclassified,direct-label,medium,environmental visibility; fits no category
+v1,bus,MANAGEMENT,Management,Operations/Crew,direct-label,medium,management-caused delay
+v1,bus,MECHANICAL,Mechanical,Mechanical,direct-label,high,
+v1,bus,MFAFR,,Track/Overhead,pattern,low,pattern: foul-rail style obstruction
+v1,bus,MFBD,,Unclassified,pattern,low,pattern: unrecognized M-code
+v1,bus,MFBIO,,Cleaning/Sanitation,pattern,low,pattern: BIO suffix implies biohazard
+v1,bus,MFCN,CLEANING,Cleaning/Sanitation,official,high,
+v1,bus,MFDI,,Unclassified,pattern,low,pattern: unrecognized M-code
+v1,bus,MFDV,ON DIVERSION,Operations/Crew,official,high,
+v1,bus,MFESA,NO OPERATOR AVAILABLE DUE TO ESA,Operations/Crew,official,high,
+v1,bus,MFFD,FARE DISPUTE,Security,official,high,
+v1,bus,MFFL,,Unclassified,pattern,low,pattern: unrecognized M-code
+v1,bus,MFGD,,Unclassified,pattern,low,pattern: unrecognized M-code
+v1,bus,MFIE,,Emergency/Medical,pattern,low,pattern: injury/illness suffix
+v1,bus,MFINF,,Unclassified,pattern,low,pattern: unrecognized M-code
+v1,bus,MFLD,LABOUR DISPUTE,Operations/Crew,official,high,
+v1,bus,MFO,OTHER,Unclassified,official,high,vague catch-all code
+v1,bus,MFPI,COLLISION/PERSONAL INJURY - TTC NOT INVOLVED,Collision,official,high,
+v1,bus,MFPR,HELD BY PARADES/MARCHES,Operations/Crew,official,high,
+v1,bus,MFS,FIRE / SMOKE,Emergency/Medical,official,high,
+v1,bus,MFSAN,UNSANITARY,Cleaning/Sanitation,official,high,
+v1,bus,MFSE,,Unclassified,pattern,low,pattern: unrecognized M-code
+v1,bus,MFSH,USED AS SHUTTLE BUS,Operations/Crew,official,high,
+v1,bus,MFTO,ILL OPERATOR & NON CHARGEABLE OPERATOR ISSUES,Emergency/Medical,official,high,
+v1,bus,MFUI,ILL CUSTOMER - TRANSPORTED,Emergency/Medical,official,high,
+v1,bus,MFUIR,ILL CUSTOMER - TRANSPORTATION DECLINED,Emergency/Medical,official,high,
+v1,bus,MFUS,UNABLE TO MAINTAIN SCHEDULE,Operations/Crew,official,high,
+v1,bus,MFVIS,VISION ISSUES,Unclassified,official,medium,environmental visibility; fits no category
+v1,bus,MFWEA,WEATHER RELATED,Operations/Crew,official,high,
+v1,bus,MFWR,,Operations/Crew,pattern,low,pattern: workforce/schedule suffix
+v1,bus,NOT LOGGED,Not Logged,Unclassified,direct-label,high,source row had no cause recorded
+v1,bus,OPERATIONS,Operations,Operations/Crew,direct-label,high,
+v1,bus,OPERATIONS - OPERATOR,Operations - Operator,Operations/Crew,direct-label,high,
+v1,bus,OVERHEAD,Overhead,Track/Overhead,direct-label,high,
+v1,bus,PFO,OTHER,Unclassified,official,high,vague catch-all code
+v1,bus,PFPD,TTC COLLISION - PROPERTY DAMAGE,Collision,official,high,
+v1,bus,RAIL/SWITCHES,Rail/Switches,Track/Overhead,direct-label,high,
+v1,bus,ROAD BLOCK - NON-TTC COLLISION,Road Block - Non-TTC Collision,Collision,direct-label,high,
+v1,bus,ROAD BLOCKED - NON-TTC COLLISION,Road Blocked - NON-TTC Collision,Collision,direct-label,high,
+v1,bus,ROADBLOCK BY COLLISION - NON-TTC,Roadblock by Collision - Non-TTC,Collision,direct-label,high,
+v1,bus,SECURITTY,Securitty,Security,direct-label,high,misspelled Security label
+v1,bus,SECURITY,Security,Security,direct-label,high,
+v1,bus,SFAE,ASSAULT - EMPLOYEE,Security,official,high,
+v1,bus,SFAP,ASSAULT - PATRON,Security,official,high,
+v1,bus,SFBT,BOMB THREAT,Security,official,high,
+v1,bus,SFDP,DISORDERLY PATRON,Security,official,high,
+v1,bus,SFG,,Unclassified,pattern,low,pattern: S-code with unknown suffix; not assumed security
+v1,bus,SFL,,Unclassified,pattern,low,pattern: S-code with unknown suffix; not assumed security
+v1,bus,SFO,OTHER,Unclassified,official,high,vague catch-all code
+v1,bus,SFPOL,HELD DUE TO POLICE INVESTIGATION,Security,official,high,
+v1,bus,SFSA,ASSAULT - SEXUAL,Security,official,high,
+v1,bus,SFSP,SUSPICIOUS PACKAGE,Security,official,high,
+v1,bus,TFAV,,Operations/Crew,pattern,low,pattern: transportation family with operations-like suffix
+v1,bus,TFCNO,NO OPERATOR AVAILABLE,Operations/Crew,official,high,
+v1,bus,TFDM,,Operations/Crew,pattern,low,pattern: transportation family with operations-like suffix
+v1,bus,TFLF,LATE ENTERING SERVICE - FIRST VEHICLE,Operations/Crew,official,high,
+v1,bus,TFLL,LATE VEHICLE - ROUTE,Operations/Crew,official,high,
+v1,bus,TFO,OTHER - SWITCH VIOLATION,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,bus,TFOI,ON BOARD INJURY,Emergency/Medical,official,high,
+v1,bus,TFOR,,Operations/Crew,pattern,low,pattern: transportation family with operations-like suffix
+v1,bus,TFPD,TTC COLLISION - PROPERTY DAMAGE,Collision,official,high,
+v1,bus,TFPI,TTC COLLISION - PERSONAL INJURY,Collision,official,high,
+v1,bus,TFUT,,Operations/Crew,pattern,low,pattern: transportation family with operations-like suffix
+v1,bus,UTILIZED OFF ROUTE,Utilized Off Route,Operations/Crew,direct-label,high,vehicle redeployed off route
+v1,bus,UTILIZING OFF ROUTE,Utilizing Off Route,Operations/Crew,direct-label,high,variant spelling of Utilized Off Route
+v1,bus,VISION,Vision,Unclassified,direct-label,medium,environmental visibility; fits no category
+v1,bus,XXXXX,,Unclassified,pattern,high,placeholder or single-character fragment
+v1,streetcar,CLEANING,Cleaning,Cleaning/Sanitation,direct-label,high,
+v1,streetcar,CLEANING - DISINFECTION,Cleaning - Disinfection,Cleaning/Sanitation,direct-label,high,
+v1,streetcar,CLEANING - UNSANITARY,Cleaning - Unsanitary,Cleaning/Sanitation,direct-label,high,
+v1,streetcar,COLLISION - TTC INVOLVED,Collision - TTC Involved,Collision,direct-label,high,
+v1,streetcar,DIVERSION,Diversion,Operations/Crew,direct-label,high,operational rerouting
+v1,streetcar,E,,Unclassified,pattern,high,placeholder or single-character fragment
+v1,streetcar,EFAS,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,streetcar,EFB,BODY,Mechanical,cross-mode-official,high,"equipment prefix, no other signal; official description from bus table"
+v1,streetcar,EFCAN,CANCELLATION,Operations/Crew,cross-mode-official,high,official description from bus table
+v1,streetcar,EFCE,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,streetcar,EFCEL,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,streetcar,EFD,DOORS,Mechanical,cross-mode-official,high,"equipment prefix, no other signal; official description from bus table"
+v1,streetcar,EFDB,DISC BRAKES,Mechanical,cross-mode-official,high,"equipment prefix, no other signal; official description from bus table"
+v1,streetcar,EFEX,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,streetcar,EFFL,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,streetcar,EFHVA,HEAT / VENT / AC,Mechanical,cross-mode-official,high,"equipment prefix, no other signal; official description from bus table"
+v1,streetcar,EFLT,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,streetcar,EFO,OTHER,Unclassified,cross-mode-official,high,vague catch-all code; official description from bus table
+v1,streetcar,EFRA,RAMP ISSUES,Mechanical,cross-mode-official,high,"equipment prefix, no other signal; official description from bus table"
+v1,streetcar,EFSD,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,streetcar,EFSP,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,streetcar,EFTI,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,streetcar,EFTRM,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,streetcar,EFVIS,,Unclassified,pattern,medium,pattern: VIS implies vision issues; fits no category
+v1,streetcar,EFWA,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,streetcar,EFWS,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,streetcar,EMERGENCY SERVICES,Emergency Services,Emergency/Medical,direct-label,high,
+v1,streetcar,ETAC,HVAC,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETAR,ARTICULATION (ALRV),Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETAX,AUXILARY POWER SUPPLY,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETBO,BODY,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETCA,COMPRESSED AIR,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETCE,COMMUNICATION EQUIPMENT (INCLUDES STOP ANNOUNCEMENT),Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETCH,CHOPPER (PROPULSION),Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETCM,CAR MONITORING,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETDB,DISC BRAKES,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETDO,PASSENGER DOORS,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETDS,DESTINATION SIGNS,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETFA,FAREBOX EQUIPMENT,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETHV,HIGH VOLTAGE (TROLLEY Equipment),Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETLT,LIGHTING,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETLV,LOW VOLTAGE,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETNEA,NO EQUIPMENT AVAILABLE,Operations/Crew,official,medium,no vehicle/equipment available is operational
+v1,streetcar,ETNT,EQUIPMENT - NO TROUBLE FOUND,Unclassified,official,medium,logged delay with no fault found; not attributable
+v1,streetcar,ETO,OTHER,Unclassified,official,high,vague catch-all code
+v1,streetcar,ETPI,PROPULSION INVERTER,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETPO,,Mechanical,pattern,medium,pattern: E prefix is equipment family
+v1,streetcar,ETRA,RAMP,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETSA,SANDERS,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETSE,SECURITY EQUIPMENT (CAMERAS/OPERATOR BARRIER),Operations/Crew,official,high,
+v1,streetcar,ETTB,TRACK BRAKES,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,streetcar,ETTM,TRACTION MOTOR,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETTR,TRUCKS,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETVC,VEHICLE CONTROLS (INCLUDES PEDAL CONTROLLER),Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETVE,VEHICLE (SOURCE OF PROBLEM NOT KNOWN),Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETVIS,,Unclassified,pattern,medium,pattern: VIS implies vision issues; fits no category
+v1,streetcar,ETWA,WARNING / ALARM SYSTEMS,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETWF,WHEEL FLANGE LUBRICATOR,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,ETWS,WINDSHIELD / WIPERS,Mechanical,official,high,"equipment prefix, no other signal"
+v1,streetcar,GENERAL DELAY,General Delay,Operations/Crew,direct-label,medium,vague catch-all; best fit is operational
+v1,streetcar,HELD BY,Held By,Operations/Crew,direct-label,medium,held by control/supervision
+v1,streetcar,INVESTIGATION,Investigation,Security,direct-label,medium,police investigation
+v1,streetcar,LATE,Late,Operations/Crew,direct-label,medium,vague late-departure label
+v1,streetcar,LATE ENTERING SERVICE,Late Entering Service,Operations/Crew,direct-label,high,
+v1,streetcar,LATE LEAVING GARAGE,Late Leaving Garage,Operations/Crew,direct-label,high,
+v1,streetcar,MANAGEMENT,Management,Operations/Crew,direct-label,medium,management-caused delay
+v1,streetcar,MECHANICAL,Mechanical,Mechanical,direct-label,high,
+v1,streetcar,MFAFR,,Track/Overhead,pattern,low,pattern: foul-rail style obstruction
+v1,streetcar,MFBD,,Unclassified,pattern,low,pattern: unrecognized M-code
+v1,streetcar,MFBIO,,Cleaning/Sanitation,pattern,low,pattern: BIO suffix implies biohazard
+v1,streetcar,MFDI,,Unclassified,pattern,low,pattern: unrecognized M-code
+v1,streetcar,MFDV,ON DIVERSION,Operations/Crew,cross-mode-official,high,official description from bus table
+v1,streetcar,MFESA,NO OPERATOR AVAILABLE DUE TO ESA,Operations/Crew,cross-mode-official,high,official description from bus table
+v1,streetcar,MFFL,,Unclassified,pattern,low,pattern: unrecognized M-code
+v1,streetcar,MFGD,,Unclassified,pattern,low,pattern: unrecognized M-code
+v1,streetcar,MFIE,,Emergency/Medical,pattern,low,pattern: injury/illness suffix
+v1,streetcar,MFO,OTHER,Unclassified,cross-mode-official,high,vague catch-all code; official description from bus table
+v1,streetcar,MFPI,COLLISION/PERSONAL INJURY - TTC NOT INVOLVED,Collision,cross-mode-official,high,official description from bus table
+v1,streetcar,MFPR,HELD BY PARADES/MARCHES,Operations/Crew,cross-mode-official,high,official description from bus table
+v1,streetcar,MFS,FIRE / SMOKE,Emergency/Medical,cross-mode-official,high,official description from bus table
+v1,streetcar,MFSAN,UNSANITARY,Cleaning/Sanitation,cross-mode-official,high,official description from bus table
+v1,streetcar,MFSE,,Unclassified,pattern,low,pattern: unrecognized M-code
+v1,streetcar,MFSH,USED AS SHUTTLE BUS,Operations/Crew,cross-mode-official,high,official description from bus table
+v1,streetcar,MFTO,ILL OPERATOR & NON CHARGEABLE OPERATOR ISSUES,Emergency/Medical,cross-mode-official,high,official description from bus table
+v1,streetcar,MFUI,ILL CUSTOMER - TRANSPORTED,Emergency/Medical,cross-mode-official,high,official description from bus table
+v1,streetcar,MFUIR,ILL CUSTOMER - TRANSPORTATION DECLINED,Emergency/Medical,cross-mode-official,high,official description from bus table
+v1,streetcar,MFUS,UNABLE TO MAINTAIN SCHEDULE,Operations/Crew,cross-mode-official,high,official description from bus table
+v1,streetcar,MFVIS,VISION ISSUES,Unclassified,cross-mode-official,medium,environmental visibility; fits no category; official description from bus table
+v1,streetcar,MFWEA,WEATHER RELATED,Operations/Crew,cross-mode-official,high,official description from bus table
+v1,streetcar,MTAFR,AUTO FOUL RAIL,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,streetcar,MTBIO,,Cleaning/Sanitation,pattern,low,pattern: BIO suffix implies biohazard
+v1,streetcar,MTCL,DIVISIONAL CLERK RELATED,Operations/Crew,official,high,
+v1,streetcar,MTCN,CLEANING,Cleaning/Sanitation,official,high,
+v1,streetcar,MTDI,,Unclassified,pattern,low,pattern: unrecognized M-code
+v1,streetcar,MTDV,ON DIVERSION,Operations/Crew,official,high,
+v1,streetcar,MTEC,CONSTRUCTION RELATED,Operations/Crew,official,high,
+v1,streetcar,MTESA,NO OPERATOR/CREW AVILABLE - ESA RELATED,Operations/Crew,official,high,
+v1,streetcar,MTFD,FARE DISPUTE,Security,official,high,
+v1,streetcar,MTFL,,Unclassified,pattern,low,pattern: unrecognized M-code
+v1,streetcar,MTGD,MISCELLANEOUS GENERAL STREETCAR DELAY,Unclassified,official,high,vague catch-all code
+v1,streetcar,MTIE,INJURED EMPLOYEES,Emergency/Medical,official,high,
+v1,streetcar,MTINF,,Unclassified,pattern,low,pattern: unrecognized M-code
+v1,streetcar,MTLD,LABOUR DISPUTE,Operations/Crew,official,high,
+v1,streetcar,MTNOA,NO OPERATOR AVAILABLE,Operations/Crew,official,high,
+v1,streetcar,MTO,OTHER,Unclassified,official,high,vague catch-all code
+v1,streetcar,MTOV,OVERHEAD DOOR CONTACT,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,streetcar,MTPI,COLLISION/PERSONAL INJURY - TTC NOT INVOLVED,Collision,official,high,
+v1,streetcar,MTPOL,POLICE INVESTIGATION,Security,official,high,
+v1,streetcar,MTPR,PARADES/RACES/MARCHES,Operations/Crew,official,high,
+v1,streetcar,MTPU,USED AS A PUSHER,Operations/Crew,official,high,
+v1,streetcar,MTS,FIRE / SMOKE,Emergency/Medical,official,high,
+v1,streetcar,MTSAN,UNSANITARY VEHICLE,Cleaning/Sanitation,official,high,
+v1,streetcar,MTSE,,Unclassified,pattern,low,pattern: unrecognized M-code
+v1,streetcar,MTSH,,Operations/Crew,pattern,low,pattern: operations suffix
+v1,streetcar,MTTD,MISC. TRAINING DEPT. RELATED,Operations/Crew,official,high,
+v1,streetcar,MTTO,MISC.TRANSPORTATION OTHER,Operations/Crew,official,high,
+v1,streetcar,MTTP,TRAPPED VEHICLE,Operations/Crew,official,high,cause ambiguous; treated as operational blockage
+v1,streetcar,MTUD,DOOR PROBLEMS - PASSENGER RELATED,Operations/Crew,official,medium,passenger-caused door holding
+v1,streetcar,MTUDD,DOOR PROBLEMS - DEBRIS RELATED,Mechanical,official,high,
+v1,streetcar,MTUI,INJURIED/ILL CUSTOMER - TRANSPORTED,Emergency/Medical,official,high,
+v1,streetcar,MTUIR,INJURIED/ILL CUSTOMER - MEDICAL AID DECLINED,Emergency/Medical,official,high,
+v1,streetcar,MTUS,UNABLE TO MAINT SCHED DUE TO TRAF/PASS CONGES,Operations/Crew,official,high,
+v1,streetcar,MTVIS,VISION ISSUES,Unclassified,official,medium,environmental visibility; fits no category
+v1,streetcar,MTWEA,WEATHER REPORTS / RELATED PROBLEMS,Operations/Crew,official,high,
+v1,streetcar,MTWR,WORK REFUSAL,Operations/Crew,official,high,
+v1,streetcar,NOT LOGGED,Not Logged,Unclassified,direct-label,high,source row had no cause recorded
+v1,streetcar,NTGD,,Unclassified,pattern,low,pattern: unrecognized code
+v1,streetcar,OPERATIONS,Operations,Operations/Crew,direct-label,high,
+v1,streetcar,OVERHEAD,Overhead,Track/Overhead,direct-label,high,
+v1,streetcar,OVERHEAD - PANTOGRAPH,Overhead - Pantograph,Track/Overhead,direct-label,high,
+v1,streetcar,PFPD,TTC COLLISION - PROPERTY DAMAGE,Collision,cross-mode-official,high,official description from bus table
+v1,streetcar,PTNT,,Track/Overhead,pattern,low,pattern: probable truncated PTNTF (switch problem)
+v1,streetcar,PTNTF,SWITCH PROBLEM - NTF,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,streetcar,PTO,OTHER - PLANT,Unclassified,official,high,vague catch-all code
+v1,streetcar,PTOV,OVERHEAD DEFECT,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,streetcar,PTPD,TTC COLLISION - PROPERTY DAMAGE,Collision,official,high,
+v1,streetcar,PTSE,SWITCH INCIDENT - ELECTRICAL,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,streetcar,PTSW,SWITCH INCIDENT- MECHANICAL,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,streetcar,PTTR,DEFECTIVE TRUMP UNIT,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,streetcar,PTW,TRACK DEFECT,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,streetcar,RAIL/SWITCHES,Rail/Switches,Track/Overhead,direct-label,high,
+v1,streetcar,SECURITY,Security,Security,direct-label,high,
+v1,streetcar,SFAE,ASSAULT - EMPLOYEE,Security,cross-mode-official,high,official description from bus table
+v1,streetcar,SFAP,ASSAULT - PATRON,Security,cross-mode-official,high,official description from bus table
+v1,streetcar,SFDP,DISORDERLY PATRON,Security,cross-mode-official,high,official description from bus table
+v1,streetcar,SFG,,Unclassified,pattern,low,pattern: S-code with unknown suffix; not assumed security
+v1,streetcar,SFL,,Unclassified,pattern,low,pattern: S-code with unknown suffix; not assumed security
+v1,streetcar,SFO,OTHER,Unclassified,cross-mode-official,high,vague catch-all code; official description from bus table
+v1,streetcar,SFPOL,HELD DUE TO POLICE INVESTIGATION,Security,cross-mode-official,high,official description from bus table
+v1,streetcar,STAE,ASSAULT - EMPLOYEE INVOLVED,Security,official,high,
+v1,streetcar,STAP,ASSAULT - PATRON INVOLVED,Security,official,high,
+v1,streetcar,STBT,BOMB THREAT,Security,official,high,
+v1,streetcar,STDP,DISORDERLY PATRON,Security,official,high,
+v1,streetcar,STEAS,EMERGENCY ALARM STATION ACTIVATION - NO TROUBLE FOUND,Unclassified,official,medium,logged delay with no fault found; not attributable
+v1,streetcar,STG,,Unclassified,pattern,low,pattern: S-code with unknown suffix; not assumed security
+v1,streetcar,STL,,Unclassified,pattern,low,pattern: S-code with unknown suffix; not assumed security
+v1,streetcar,STO,OTHER,Unclassified,official,high,vague catch-all code
+v1,streetcar,STSA,ASSAULT - SEXUAL,Security,official,high,
+v1,streetcar,STSP,SUSPICIOUS PACKAGE,Security,official,high,
+v1,streetcar,TFCNO,NO OPERATOR AVAILABLE,Operations/Crew,cross-mode-official,high,official description from bus table
+v1,streetcar,TFDM,,Operations/Crew,pattern,low,pattern: transportation family with operations-like suffix
+v1,streetcar,TFDP,,Collision,pattern,low,"pattern: probable transposition typo of TFPD (TTC collision, property damage)"
+v1,streetcar,TFO,OTHER - SWITCH VIOLATION,Track/Overhead,cross-mode-official,high,"signalling, track, overhead and traction power infrastructure; official description from bus table"
+v1,streetcar,TFOI,ON BOARD INJURY,Emergency/Medical,cross-mode-official,high,official description from bus table
+v1,streetcar,TFOR,,Operations/Crew,pattern,low,pattern: transportation family with operations-like suffix
+v1,streetcar,TFPD,TTC COLLISION - PROPERTY DAMAGE,Collision,cross-mode-official,high,official description from bus table
+v1,streetcar,TFPI,TTC COLLISION - PERSONAL INJURY,Collision,cross-mode-official,high,official description from bus table
+v1,streetcar,TTAV,,Operations/Crew,pattern,low,pattern: transportation family with operations-like suffix
+v1,streetcar,TTDM,,Operations/Crew,pattern,low,pattern: transportation family with operations-like suffix
+v1,streetcar,TTLF,LATE ENTERING SERVICE - FIRST VEHICLE,Operations/Crew,official,high,
+v1,streetcar,TTLL,LATE VEHICLE - ROUTE,Operations/Crew,official,high,
+v1,streetcar,TTO,TRANSPORTATION - OTHER,Operations/Crew,official,high,
+v1,streetcar,TTOI,ON BOARD INJURY,Emergency/Medical,official,high,
+v1,streetcar,TTOR,,Operations/Crew,pattern,low,pattern: transportation family with operations-like suffix
+v1,streetcar,TTPD,TTC COLLISION - PROPERTY DAMAGE,Collision,official,high,
+v1,streetcar,TTPI,TTC COLLISION - PERSONAL INJURY,Collision,official,high,
+v1,streetcar,TTSUP,SUPERVISORY ERROR,Operations/Crew,official,high,
+v1,streetcar,TTSW,OPERATOR VIOLATED SWITCH,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,streetcar,TTUS,Operator Unable to Maintain schedule (Operator Related),Operations/Crew,official,high,
+v1,streetcar,UTILIZED OFF ROUTE,Utilized Off Route,Operations/Crew,direct-label,high,vehicle redeployed off route
+v1,streetcar,UTILIZING OFF ROUTE,Utilizing Off Route,Operations/Crew,direct-label,high,variant spelling of Utilized Off Route
+v1,streetcar,VISION,Vision,Unclassified,direct-label,medium,environmental visibility; fits no category
+v1,streetcar,XXXXX,,Unclassified,pattern,high,placeholder or single-character fragment
+v1,subway,ERAC,Air Conditioning,Mechanical,official-legacy,high,"equipment prefix, no other signal"
+v1,subway,ERBO,Body,Mechanical,official-legacy,high,"equipment prefix, no other signal"
+v1,subway,ERCD,Consequential Delay (2nd Delay Same Fault),Mechanical,official-legacy,high,"equipment prefix, no other signal"
+v1,subway,ERCO,Couplers,Mechanical,official-legacy,high,"equipment prefix, no other signal"
+v1,subway,ERDB,Disc Brakes,Mechanical,official-legacy,high,"equipment prefix, no other signal"
+v1,subway,ERDO,Door Problems - Faulty Equipment,Mechanical,official-legacy,high,
+v1,subway,ERHV,High Voltage,Mechanical,official-legacy,high,"equipment prefix, no other signal"
+v1,subway,ERLT,Lighting System,Mechanical,official-legacy,high,"equipment prefix, no other signal"
+v1,subway,ERLV,Low Voltage,Mechanical,official-legacy,high,"equipment prefix, no other signal"
+v1,subway,ERME,RC&S Maintenance Error - (Human),Mechanical,official-legacy,high,"equipment prefix, no other signal"
+v1,subway,ERNEA,No Equipment Available,Operations/Crew,official-legacy,medium,no vehicle/equipment available is operational
+v1,subway,ERNT,Equipment - No Trouble Found,Unclassified,official-legacy,medium,logged delay with no fault found; not attributable
+v1,subway,ERO,RC&S Other,Unclassified,official-legacy,high,vague catch-all code
+v1,subway,ERPR,Propulsion System,Mechanical,official-legacy,high,"equipment prefix, no other signal"
+v1,subway,ERRA,Radio,Track/Overhead,official-legacy,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,ERTB,Track Brakes,Track/Overhead,official-legacy,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,ERTC,Train Control - VOBC,Mechanical,official-legacy,high,"equipment prefix, no other signal"
+v1,subway,ERTL,Trainline System,Mechanical,official-legacy,high,"equipment prefix, no other signal"
+v1,subway,ERTO,,Mechanical,pattern,low,pattern: unknown E-code; equipment family
+v1,subway,ERTR,Trucks,Mechanical,official-legacy,high,"equipment prefix, no other signal"
+v1,subway,ERVE,Vehicle,Mechanical,official-legacy,high,"equipment prefix, no other signal"
+v1,subway,ERWA,Warning Alarm Systems,Mechanical,official-legacy,high,"equipment prefix, no other signal"
+v1,subway,ERWS,Wind Shield,Mechanical,official-legacy,high,"equipment prefix, no other signal"
+v1,subway,ETCA,COMPRESSED AIR,Mechanical,cross-mode-official,high,"equipment prefix, no other signal; official description from streetcar table"
+v1,subway,EUAC,AIR CONDITIONING,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUAL,ALTERNATING CURRENT,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUATC,ATC RC&S EQUIPMENT,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUBK,BRAKES,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUBO,BODY,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUCA,COMPRESSED AIR,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUCC,CAM CONTROL,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUCD,RC&S CONSEQUENTIAL DELAY (SECOND DELAY SAME FAULT - NO INTERVENTION),Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUCH,CHOPPER CONTROL,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUCO,COUPLERS,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUDO,DOOR PROBLEMS RE:FAULTY EQUIPMENT,Mechanical,official,high,
+v1,subway,EUECD,ECD/LINE MECHANIC RELATED,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUHV,HIGH VOLTAGE,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EULT,LIGHTING SYSTEMS,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EULV,LOW VOLTAGE,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUME,RC&S MAINTENANCE ERROR (HUMAN ERROR - NO EQUIP.FAULT),Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUNEA,NO EQUIPMENT AVAILABLE,Operations/Crew,official,medium,no vehicle/equipment available is operational
+v1,subway,EUNT,EQUIPMENT - NO TROUBLE FOUND,Unclassified,official,medium,logged delay with no fault found; not attributable
+v1,subway,EUO,RC&S OTHER,Unclassified,official,high,vague catch-all code
+v1,subway,EUOE,"RC&S OPERATOR ERROR (SIGNAL VIOLATION, PLATFORM OVERSHOOT, ETC)",Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,EUOPO,OPTO (RC&S) NON-TRAIN DOOR MONITORING,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUPI,T-1 PROPULSION SYSTEM,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUSC,SPEED CONTROL EQUIPMENT,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,EUTAC,,Mechanical,pattern,low,pattern: probable typo of EUATC (ATC equipment)
+v1,subway,EUTL,TRAINLINE SYSTEM,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUTM,TRACTION MOTORS,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUTR,TRUCKS,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUTRD,TORONTO ROCKET CAB DOORS,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUVA,WARNING/ALARM SYSTEM/PASSENGER SECURITY SYSTEM,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUVE,WORK VEHICLE,Mechanical,official,high,"equipment prefix, no other signal"
+v1,subway,EUYRD,YARD/CARHOUSE RELATED PROBLEMS,Operations/Crew,official,high,
+v1,subway,MFO,OTHER,Unclassified,cross-mode-official,high,vague catch-all code; official description from bus table
+v1,subway,MRCL,Divisional Clerk Related,Operations/Crew,official-legacy,high,
+v1,subway,MRD,Door Problems - Passenger Related,Operations/Crew,official-legacy,medium,passenger-caused door holding
+v1,subway,MRDD,Door Problems - Debris Related,Mechanical,official-legacy,high,
+v1,subway,MREC,Misc. Engineering & Construction Related Problems,Operations/Crew,official-legacy,high,
+v1,subway,MRESA,No Operator Immediately Available,Operations/Crew,official-legacy,high,
+v1,subway,MRFS,Fire/Smoke Plan B - Source External to TTC,Emergency/Medical,official-legacy,high,
+v1,subway,MRIE,Injured Employee,Emergency/Medical,official-legacy,high,
+v1,subway,MRLD,Labour Dispute - Subway,Operations/Crew,official-legacy,high,
+v1,subway,MRNOA,No Operator Immediately Available - Not E.S.A. Related,Operations/Crew,official-legacy,high,
+v1,subway,MRO,Miscellaneous Other,Unclassified,official-legacy,high,vague catch-all code
+v1,subway,MRPAA,Passenger Assistance Alarm Activated - No Trouble Found,Unclassified,official-legacy,medium,logged delay with no fault found; not attributable
+v1,subway,MRPLA,Fire/Smoke Plan A,Emergency/Medical,official-legacy,high,
+v1,subway,MRPLB,Fire/Smoke Plan B,Emergency/Medical,official-legacy,high,
+v1,subway,MRPLC,Fire/Smoke Plan C,Emergency/Medical,official-legacy,high,
+v1,subway,MRPR1,Priority One - Train in Contact With Person,Collision,official-legacy,high,
+v1,subway,MRSAN,Unsanitary Vehicle,Cleaning/Sanitation,official-legacy,high,
+v1,subway,MRSTM,Scheduled Track Maintenance,Track/Overhead,official-legacy,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,MRTO,Timeout,Operations/Crew,official-legacy,medium,operational hold; confidence medium
+v1,subway,MRUI,Injured or ill Customer (On Train) - Transported,Emergency/Medical,official-legacy,high,
+v1,subway,MRUIR,Injured or ill Customer (On Train) - Medical Aid Refused,Emergency/Medical,official-legacy,high,
+v1,subway,MRWEA,Weather Reports / Related Delays,Operations/Crew,official-legacy,high,
+v1,subway,MTAFR,AUTO FOUL RAIL,Track/Overhead,cross-mode-official,high,"signalling, track, overhead and traction power infrastructure; official description from streetcar table"
+v1,subway,MTO,OTHER,Unclassified,cross-mode-official,high,vague catch-all code; official description from streetcar table
+v1,subway,MTUI,INJURIED/ILL CUSTOMER - TRANSPORTED,Emergency/Medical,cross-mode-official,high,official description from streetcar table
+v1,subway,MUATC,ATC PROJECT,Operations/Crew,official,high,
+v1,subway,MUBIO,,Cleaning/Sanitation,pattern,low,pattern: BIO suffix implies biohazard
+v1,subway,MUCL,DIVISIONAL CLERK RELATED,Operations/Crew,official,high,
+v1,subway,MUCP,CLOSURES - PLANNED,Operations/Crew,official,high,
+v1,subway,MUCSA,NO COLLECTOR AVAILABLE- E.S.A. RELATED,Operations/Crew,official,high,
+v1,subway,MUCU,CLOSURES - UNPLANNED,Operations/Crew,official,high,
+v1,subway,MUD,DOOR PROBLEMS - PASSENGER RELATED,Operations/Crew,official,medium,passenger-caused door holding
+v1,subway,MUDD,DOOR PROBLEMS - DEBRIS RELATED,Mechanical,official,high,
+v1,subway,MUEC,ENGINEEERING & CONSTRUCTION RELATED,Operations/Crew,official,high,
+v1,subway,MUESA,NO OPERATOR/CREW AVAILABLE - E.S.A. RELATED,Operations/Crew,official,high,
+v1,subway,MUFL,,Unclassified,pattern,low,pattern: unrecognized M-code
+v1,subway,MUFM,"""FORCE MAJEURE"" - DELAY OVER 90 MIN. RE: WEATHER OR MAJOR EVENT",Operations/Crew,official,high,
+v1,subway,MUFS,FIRE/SMOKE PLAN B - SOURCE EXTERNAL TO TTC,Emergency/Medical,official,high,
+v1,subway,MUGD,MISCELLANEOUS GENERAL SUBWAY LINE DELAYS -,Unclassified,official,high,vague catch-all code
+v1,subway,MUI,INJURED/ILL CUSTOMER ON TRAIN - TRANSPORTED,Emergency/Medical,official,high,
+v1,subway,MUIE,INJURED EMPLOYEES,Emergency/Medical,official,high,
+v1,subway,MUINF,,Unclassified,pattern,low,pattern: unrecognized M-code
+v1,subway,MUIR,INJURED/ILL CUSTOMER ON TRAIN - MEDICAL AID REFUSED,Emergency/Medical,official,high,
+v1,subway,MUIRS,INJURED/ILL CUSTOMER IN STATION - MEDICAL AID REFUSED,Emergency/Medical,official,high,
+v1,subway,MUIS,INJURED/ILL CUSTOMER IN STATION - TRANSPORTED,Emergency/Medical,official,high,
+v1,subway,MULD,LABOUR DISPUTE RELATED - SUBWAY,Operations/Crew,official,high,
+v1,subway,MUNCA,NO COLLECTOR AVAILABLE - NON ESA RELATED,Operations/Crew,official,high,
+v1,subway,MUNOA,NO OPERATOR AVAILABLE - NON ESA RELATED,Operations/Crew,official,high,
+v1,subway,MUO,MISCELLANEOUS OTHER,Unclassified,official,high,vague catch-all code
+v1,subway,MUODC,OVERHEAD DOOR CONTACTED,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,MUPAA,PAA - NO TROUBLE FOUND,Unclassified,official,medium,logged delay with no fault found; not attributable
+v1,subway,MUPF,EXTERNAL POWER FAILURE,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,MUPLA,FIRE/SMOKE PLAN A,Emergency/Medical,official,high,
+v1,subway,MUPLB,FIRE/SMOKE PLAN B - SOURCE TTC (TRACK LEVEL),Emergency/Medical,official,high,
+v1,subway,MUPLC,FIRE SMOKE PLAN C,Emergency/Medical,official,high,
+v1,subway,MUPR1,PRIORITY ONE - TRAIN IN CONTACT WITH PERSON,Collision,official,high,
+v1,subway,MUSAN,UNSANITARY VEHICLE,Cleaning/Sanitation,official,high,
+v1,subway,MUSC,SI SPEED CONTROL,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,MUSE,,Unclassified,pattern,low,pattern: unrecognized M-code
+v1,subway,MUTD,TRAINING DEPT. RELATED DELAYS,Operations/Crew,official,high,
+v1,subway,MUTO,MISCELLANEOUS TRANSPORTATION OTHER (EMPLOYEE NON-CHARGEABLE),Operations/Crew,official,high,
+v1,subway,MUWEA,WEATHER REPORTS / RELATED PROBLEMS,Operations/Crew,official,high,
+v1,subway,MUWR,WORK REFUSAL,Operations/Crew,official,high,
+v1,subway,NOT LOGGED,Not Logged,Unclassified,direct-label,high,source row had no cause recorded
+v1,subway,PREL,Escalator/Elevator Incident,Emergency/Medical,official-legacy,high,
+v1,subway,PRO,Other,Unclassified,official-legacy,high,vague catch-all code
+v1,subway,PRS,VCC/RCIU/CCR,Track/Overhead,official-legacy,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PRSA,Axle Counter Related,Track/Overhead,official-legacy,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PRSL,Loop Related Failures,Track/Overhead,official-legacy,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PRSO,Signals Other,Track/Overhead,official-legacy,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PRSP,Signals Power Supply Related,Track/Overhead,official-legacy,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PRST,Station Stairway Incident,Emergency/Medical,official-legacy,high,
+v1,subway,PRSW,Switch Related,Track/Overhead,official-legacy,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PRTST,Signals - Train Stops,Track/Overhead,official-legacy,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PRW,Rail Defect/Fastenings/Power Rail,Track/Overhead,official-legacy,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUATC,ATC SIGNALS OTHER,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUCBI,CENTRAL LOGIC CONTROLLER FAILURE,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUCSC,SIGNAL CONTROL,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUCSS,CENTRAL OFFICE SIGNALLING SYSTEM (CSS),Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUDCS,DATA COMMUNICATIONS SYSTEM FAILURE,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUEME,ELECTRICAL - MAINTENANCE ERROR,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUEO,ELECTRICAL - OTHER,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUEWZ,ELECTRICAL - WORK ZONE PROBLEMS,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUFA,,Track/Overhead,pattern,low,pattern: P prefix is plant/track family; suffix unknown
+v1,subway,PUMEL,ANY ESCL. OR ELEV. INCIDENT - TRANSPORTED OR MEDICAL AID DECLINED,Emergency/Medical,official,high,
+v1,subway,PUMO,PLANT MAINTENANCE - OTHER,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUMST,ANY STAIRWAY INCIDENT - TRANSPORTED OR MEDICAL AID DECLINED,Emergency/Medical,official,high,
+v1,subway,PUOPO,OPTO (COMMUNICATIONS) TRAIN DOOR MONITORING,Track/Overhead,official,medium,communications-group train door monitoring; plant side
+v1,subway,PUSAC,SIGNALS AXLE COUNTER BLOCK FAILURE,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUSBE,BEACON FAILURE,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUSCA,SCADA RELATED PROBLEMS,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUSCR,SUBWAY CAR RADIO FAULT,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUSEA,EMERGENCY ALARM STATIONS,Security,official,high,
+v1,subway,PUSI,SIGNAL OR RELATED COMPONENTS FAILURE,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUSIC,,Track/Overhead,pattern,low,pattern: P prefix is plant/track family; suffix unknown
+v1,subway,PUSIO,SMART IO FAILURE,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUSIS,SIGNALS TRACK WEATHER RELATED ISSUES,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUSLC,SIGNALS LINE CONTROLLER FAILURE,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUSNT,SIGNAL PROBLEM - NO TROUBLE FOUND,Unclassified,official,medium,logged delay with no fault found; not attributable
+v1,subway,PUSO,SIGNALS - OTHER,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUSRA,SUBWAY RADIO SYSTEM PROBLEMS,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUSSW,TRACK SWITCH FAILURE - S/E/C RELATED PROBLEM,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUSTC,SIGNALS - TRACK CIRCUIT PROBLEMS,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUSTP,TRACTION POWER OR RELATED COMPONENTS FAILURE,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUSTS,SIGNALS - TRAIN STOPS,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUSWZ,WORK ZONE PROBLEMS - SIGNALS,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUSZC,SIGNALS ZONE CONTROLLER FAILURE,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUT0,T&S OTHER,Unclassified,official,high,vague catch-all code
+v1,subway,PUTCD,T&S CONTRACTOR PROBLEMS,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUTD,DEBRIS AT TRACK LEVEL - CONTROLLABLE,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUTDN,DEBRIS AT TRACK LEVEL - NON-CONTROLLABLE,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUTIJ,INSULATED JOINT RELATED PROBLEM,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUTIS,ICE/SNOW RELATED PROBLEM,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUTN,,Track/Overhead,pattern,low,pattern: P prefix is plant/track family; suffix unknown
+v1,subway,PUTNT,T&S RELATED PROBLEM - NO TROUBLE FOUND,Unclassified,official,medium,logged delay with no fault found; not attributable
+v1,subway,PUTO,,Track/Overhead,pattern,low,pattern: probable typo of PUT0 (T&S other)
+v1,subway,PUTOE,"T&S OPERATOR RELATED PROBLEM (VIOLATIONS, OVERSHOOTS, ETC.)",Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUTR,RAIL RELATED PROBLEM,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUTS,STRUCTURE RELATED PROBLEM,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUTSC,SIGNALS-CONTROL PROBLEM-TRACK,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUTSM,TRACK SWITCH FAILURE - T&S RELATED PROBLEM,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUTTC,TRACK CIRCUIT PROBLEMS RE:DEFECTIVE BOLTS/BONDING,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUTTP,TRACTION POWER RAIL RELATED PROBLEMS,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,PUTWZ,WORK ZONES PROBLEMS - TRACK,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,SFAE,ASSAULT - EMPLOYEE,Security,cross-mode-official,high,official description from bus table
+v1,subway,SFAP,ASSAULT - PATRON,Security,cross-mode-official,high,official description from bus table
+v1,subway,SFDP,DISORDERLY PATRON,Security,cross-mode-official,high,official description from bus table
+v1,subway,SFO,OTHER,Unclassified,cross-mode-official,high,vague catch-all code; official description from bus table
+v1,subway,SRAE,Assault / Employee Involved,Security,official-legacy,high,
+v1,subway,SRAP,Assault / Patron Involved,Security,official-legacy,high,
+v1,subway,SRBT,Bomb Threat,Security,official-legacy,high,
+v1,subway,SRCOL,Collector Booth Alarm Activated,Security,official-legacy,high,
+v1,subway,SRDP,Disorderly Patron,Security,official-legacy,high,
+v1,subway,SREAS,Emergency Alarm Station Activation,Security,official-legacy,high,
+v1,subway,SRO,Passenger Other,Unclassified,official-legacy,high,vague catch-all code
+v1,subway,SRSA,Sexual Assault,Security,official-legacy,high,
+v1,subway,SRSP,Suspicious Package,Security,official-legacy,high,
+v1,subway,SRUT,Unauthorized at Track Level,Security,official-legacy,high,
+v1,subway,STAE,ASSAULT - EMPLOYEE INVOLVED,Security,cross-mode-official,high,official description from streetcar table
+v1,subway,STDP,DISORDERLY PATRON,Security,cross-mode-official,high,official description from streetcar table
+v1,subway,STO,OTHER,Unclassified,cross-mode-official,high,vague catch-all code; official description from streetcar table
+v1,subway,SUAE,ASSAULT / EMPLOYEE INVOLVED,Security,official,high,
+v1,subway,SUAP,ASSUALT / PATRON INVOLVED,Security,official,high,
+v1,subway,SUBT,BOMB THREAT,Security,official,high,
+v1,subway,SUCOL,COLLECTOR BOOTH HOLD-UP ALARM ACTIVATED,Security,official,high,
+v1,subway,SUDP,DISORDERLY PATRON,Security,official,high,
+v1,subway,SUEAS,EAS ACTIVATED - NO TROUBLE FOUND,Unclassified,official,medium,logged delay with no fault found; not attributable
+v1,subway,SUG,GRAFFITI / SCRATCHITI,Cleaning/Sanitation,official,high,
+v1,subway,SUL,,Unclassified,pattern,low,pattern: S-code with unknown suffix; not assumed security
+v1,subway,SUO,SECURITY OTHER,Security,official,high,
+v1,subway,SUPD,,Unclassified,pattern,low,pattern: S-code with unknown suffix; not assumed security
+v1,subway,SUPOL,HELD BY POLICE - NON TTC RELATED,Security,official,high,
+v1,subway,SUROB,ROBBERY,Security,official,high,
+v1,subway,SUSA,ASSAULT / SEXUAL,Security,official,high,
+v1,subway,SUSP,SUSPICIOUS PACKAGE,Security,official,high,
+v1,subway,SUUT,UNAUTHORIZED AT TRACK LEVEL,Security,official,high,
+v1,subway,TFPD,TTC COLLISION - PROPERTY DAMAGE,Collision,cross-mode-official,high,official description from bus table
+v1,subway,TRDOE,Doors Open in Error,Operations/Crew,official-legacy,high,
+v1,subway,TRNCA,,Operations/Crew,pattern,low,pattern: transportation family with operations-like suffix
+v1,subway,TRNIP,Operator Not In Position,Operations/Crew,official-legacy,high,
+v1,subway,TRNOA,No Operator Immediately Available,Operations/Crew,official-legacy,high,
+v1,subway,TRO,Transportation Department - Other,Operations/Crew,official-legacy,high,
+v1,subway,TRSET,Train Controls Improperly Shut Down,Operations/Crew,official-legacy,high,
+v1,subway,TRST,Storm Trains,Operations/Crew,official-legacy,high,
+v1,subway,TRTC,Transit Control Related Problems,Operations/Crew,official-legacy,high,
+v1,subway,TUATC,ATC OPERATOR RELATED,Operations/Crew,official,high,
+v1,subway,TUCC,TRANSIT CONTROL RELATED - TOWER CONTROLLER ERROR,Operations/Crew,official,high,
+v1,subway,TUDOE,DOORS OPEN IN ERROR,Operations/Crew,official,high,
+v1,subway,TUKEY,TWO DRUM SWITCH KEYS IN TRAIN,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,TUML,MAINLINE STORAGE,Operations/Crew,official,high,
+v1,subway,TUMVS,OPERATOR VIOLATED SIGNAL,Track/Overhead,official,high,"signalling, track, overhead and traction power infrastructure"
+v1,subway,TUNCA,NO COLLECTOR AVAILABLE,Operations/Crew,official,high,
+v1,subway,TUNIP,OPERATOR NOT IN POSTION,Operations/Crew,official,high,
+v1,subway,TUNOA,NO OPERATOR AVAILABLE,Operations/Crew,official,high,
+v1,subway,TUO,TRANSPORTATION OTHER,Operations/Crew,official,high,
+v1,subway,TUOPO,OPTO OPERATOR RELATED,Operations/Crew,official,high,
+v1,subway,TUOS,OPERATOR OVERSHOT PLATFORM,Operations/Crew,official,high,
+v1,subway,TUS,UNABLE TO MAINTAIN SCHEDULE,Operations/Crew,official,high,
+v1,subway,TUSC,OPERATOR OVERSPEED,Operations/Crew,official,high,
+v1,subway,TUSET,CONTROLS IMPROPERLY BLOWN DOWN,Operations/Crew,official,high,
+v1,subway,TUST,STORM TRAINS,Operations/Crew,official,high,
+v1,subway,TUSUP,SUPERVISORY ERROR,Operations/Crew,official,high,
+v1,subway,TUTD,,Operations/Crew,pattern,low,pattern: transportation family with operations-like suffix
+v1,subway,TUUR,UNAUTHORIZED TRAIN REVERSAL BY OPERATOR,Operations/Crew,official,high,
+v1,subway,XXXXX,,Unclassified,pattern,high,placeholder or single-character fragment
